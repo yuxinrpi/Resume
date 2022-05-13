@@ -1,6 +1,6 @@
 # Hello! 
 ## This is my resume page!
-### You can also [Download as PDF]("/files/Resume.pdf")!
+### You can also [download as PDF](/files/Resume.pdf)!
 ---
 *(This site is under construction now, check back later!)*\
 
