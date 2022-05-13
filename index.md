@@ -7,10 +7,14 @@ I am actively looking for a full-time job as a Mechanical Engineer/Product Manag
 
 ## Education
 ---
+<img align="right" src="/pics/berkeley.jfif" width="50" height="50">
+
 ### University of California, Berkeley
 **MEng** *Mechanical Engineering*\
 **Concentration**: *Product Design*\
 **Expected graduation**: *June 2023*
+
+<img align="right" src="/pics/rpi.jfif" width="50" height="50">
 
 ### Rensselaer Polytechnic Institute
 **BS** *Mechanical Engineering*\
