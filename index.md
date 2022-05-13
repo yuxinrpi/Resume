@@ -1,16 +1,17 @@
 # Hello! 
-## This is Yuxin Hu's resume page!
+## This is my resume page!
+### You can also [download as PDF](/files/Resume.pdf)!
 ---
 *(This site is under construction now, check back later!)*\
+
 I am an incoming graduate student at UC Berkeley, starting *Fall 2022*.\
 I am actively looking for a full-time job as a Mechanical Engineer/Product Manager starting *Summer 2023*.
 
 ## Education
 ---
 <a href="https://www.berkeley.edu"><img align="right" src="/pics/berkeley.jfif" width="50" height="50"></a>
-
 ### University of California, Berkeley
-#### Berkeley, CA, US
+***Berkeley, CA, US***\
 **MEng** *Mechanical Engineering*\
 **Concentration**: *Product Design*\
 **Expected graduation**: *June 2023*
@@ -18,7 +19,7 @@ I am actively looking for a full-time job as a Mechanical Engineer/Product Manag
 <a href="https://www.rpi.edu"><img align="right" src="/pics/rpi.jfif" width="50" height="50"></a>
 
 ### Rensselaer Polytechnic Institute
-#### Troy, NY, US
+***Troy, NY, US***\
 **BS** *Mechanical Engineering*\
 **Minor**:  *Computer Science*\
 **GPA**: *3.78/4.00*\
@@ -27,17 +28,25 @@ I am actively looking for a full-time job as a Mechanical Engineer/Product Manag
 <a href="https://www.nanzan-u.ac.jp/English/"><img align="right" src="/pics/nanzan.png" width="50" height="50"></a>
 
 ### Nanzan University
-#### Nagoya, Japan
-**Intensive Japanese Program**\
+***Nagoya, Japan***\
+**Intensive Japanese Program, Center of Japanese Studies**\
 **Semester GPA**: *3.87/4.00*
 
 
 
 ## Working Experience
 ---
-
+<a href="https://www.gehealthcare.com/"><img align="right" src="/pics/ge.jfif" width="50" height="50"></a>
 ### GE Healthcare Shanghai Co., Ltd.
+***Shanghai, China***\
+*Jul 2021 - Aug 2021*
 
+<a href="http://sc.comac.cc/"><img align="right" src="/pics/comac.jfif" width="50" height="50"></a>
 ### Shanghai Aircraft Customer Service Co., Ltd.
+***Shanghai, China***\
+*May 2021 - Jun 2021*
 
+<a href="https://www.ysr-motoman.cn/en/"><img align="right" src="/pics/yaskawa.jfif" width="50" height="50"></a>
 ### Yaskawa Shougang Robot Co.,Ltd.
+***Shanghai, China***\
+*May 2019 - Jun 2019*
