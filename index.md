@@ -7,20 +7,31 @@ I am actively looking for a full-time job as a Mechanical Engineer/Product Manag
 
 ## Education
 ---
-<img align="right" src="/pics/berkeley.jfif" width="50" height="50">
+<a href="https://www.berkeley.edu"><img align="right" src="/pics/berkeley.jfif" width="50" height="50"></a>
 
 ### University of California, Berkeley
+#### Berkeley, CA, US
 **MEng** *Mechanical Engineering*\
 **Concentration**: *Product Design*\
 **Expected graduation**: *June 2023*
 
-<img align="right" src="/pics/rpi.jfif" width="50" height="50">
+<a href="https://www.rpi.edu"><img align="right" src="/pics/rpi.jfif" width="50" height="50"></a>
 
 ### Rensselaer Polytechnic Institute
+#### Troy, NY, US
 **BS** *Mechanical Engineering*\
 **Minor**:  *Computer Science*\
 **GPA**: *3.78/4.00*\
 **Graduation**: *May 2022*
+
+<a href="https://www.nanzan-u.ac.jp/English/"><img align="right" src="/pics/nanzan.png" width="50" height="50"></a>
+
+### Nanzan University
+#### Nagoya, Japan
+**Intensive Japanese Program**\
+**Semester GPA**: *3.87/4.00*
+
+
 
 ## Working Experience
 ---
