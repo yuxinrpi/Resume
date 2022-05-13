@@ -1,9 +1,12 @@
 # Hello! 
-# This is Yuxin Hu's resume page!
-Now it is for test only, check back later!
+## This is Yuxin Hu's resume page!
+---
+*(This site is under construction now, check back later!)*\
+I am an incoming graduate student at UC Berkeley, starting *Fall 2022*.\
+I am actively looking for a full-time job as a Mechanical Engineer/Product Manager starting *Summer 2023*.
 
 ## Education
-
+---
 ### University of California, Berkeley
 **MEng** *Mechanical Engineering*\
 **Concentration**: *Product Design*\
@@ -14,3 +17,12 @@ Now it is for test only, check back later!
 **Minor**:  *Computer Science*\
 **GPA**: *3.78/4.00*\
 **Graduation**: *May 2022*
+
+## Working Experience
+---
+
+### GE Healthcare Shanghai Co., Ltd.
+
+### Shanghai Aircraft Customer Service Co., Ltd.
+
+### Yaskawa Shougang Robot Co.,Ltd.
