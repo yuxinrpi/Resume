@@ -30,7 +30,8 @@ I am actively looking for a full-time job as a Mechanical Engineer/Product Manag
 ### Nanzan University
 ***Nagoya, Japan***\
 **Intensive Japanese Program, Center of Japanese Studies**\
-**Semester GPA**: *3.87/4.00*
+**Semester GPA**: *3.87/4.00*\
+**Program Date**: *Spring 2021*
 
 
 
@@ -50,3 +51,6 @@ I am actively looking for a full-time job as a Mechanical Engineer/Product Manag
 ### Yaskawa Shougang Robot Co.,Ltd.
 ***Shanghai, China***\
 *May 2019 - Jun 2019*
+
+## Projects
+---
