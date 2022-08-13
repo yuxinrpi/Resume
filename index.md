@@ -1,12 +1,13 @@
-# Hello there!
-## This is my resume page!
+# Welcome to my resume page!
 <!-- ### You can also [download as PDF](/files/Resume.pdf)! -->
+##Intro
 ---
 *(This site is under construction now, check back later!)*\
+This is my resume page, you can also view my projects and others using the tab on the left.\
 
 I am a Master student at UC Berkeley, starting *Fall 2022*.\
-I am actively looking for a full-time job as a Mechanical Engineer/Product Manager starting *Summer 2023*.
-Please feel free to contact me if you are interested <a href="yuxinhu@berkeley.edu">@myEmail</a>!
+I am actively looking for a full-time job as a Mechanical Engineer/Product Manager starting *Summer 2023*.\
+Please feel free to contact me if you are interested via <a href="mailto:yuxinhu@berkeley.edu">Email</a>!
 ## Education
 ---
 <a href="https://www.berkeley.edu"><img align="right" src="/pics/berkeley.jfif" width="50" height="50"></a>
@@ -37,6 +38,7 @@ Please feel free to contact me if you are interested <a href="yuxinhu@berkeley.e
 
 ## Working Experience
 ---
+
 <a href="https://www.gehealthcare.com/"><img align="right" src="/pics/ge.jfif" width="50" height="50"></a>
 ### GE Healthcare Shanghai Co., Ltd.
 ***Shanghai, China***\
@@ -51,6 +53,3 @@ Please feel free to contact me if you are interested <a href="yuxinhu@berkeley.e
 ### Yaskawa Shougang Robot Co.,Ltd.
 ***Shanghai, China***\
 *May 2019 - Jun 2019*
-
-## Projects
----
