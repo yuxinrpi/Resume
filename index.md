@@ -1,6 +1,6 @@
 # Welcome to my resume page!
 <!-- ### You can also [download as PDF](/files/Resume.pdf)! -->
-##Intro
+## Intro
 ---
 *(This site is under construction now, check back later!)*\
 This is my resume page, you can also view my projects and others using the tab on the left.\
