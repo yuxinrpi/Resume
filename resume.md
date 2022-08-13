@@ -10,14 +10,14 @@ I am actively looking for a full-time job as a Mechanical Engineer/Product Manag
 Please feel free to contact me if you are interested via <a href="mailto:yuxinhu@berkeley.edu">Email</a>!
 ## Education
 ---
-<a href="https://www.berkeley.edu"><img align="right" src="/pics/berkeley.jfif" width="50" height="50" style="vertical-align: text-bottom;">
+<a href="https://www.berkeley.edu"><img align="right" src="/pics/berkeley.jfif" width="50" height="50" style="vertical-align: text-bottom; margin: 0 0 0px;">
 ### University of California, Berkeley
 ***Berkeley, CA, US***\
 **MEng** *Mechanical Engineering*\
 **Concentration**: *Product Design*\
 **Expected graduation**: *June 2023*
 
-<a href="https://www.rpi.edu"><img align="right" src="/pics/rpi.jfif" width="50" height="50"></a>
+<a href="https://www.rpi.edu"><img align="right" src="/pics/rpi.jfif" width="50" height="50" style="vertical-align: text-bottom; margin: 0 0 0px;"></a>
 
 ### Rensselaer Polytechnic Institute
 ***Troy, NY, US***\
@@ -26,7 +26,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 **GPA**: *3.78/4.00*\
 **Graduation**: *May 2022*
 
-<a href="https://www.nanzan-u.ac.jp/English/"><img align="right" src="/pics/nanzan.png" width="50" height="50"></a>
+<a href="https://www.nanzan-u.ac.jp/English/"><img align="right" src="/pics/nanzan.png" width="50" height="50" style="vertical-align: text-bottom; margin: 0 0 0px;"></a>
 
 ### Nanzan University
 ***Nagoya, Japan***\
@@ -39,17 +39,17 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 ## Working Experience
 ---
 
-<a href="https://www.gehealthcare.com/"><img align="right" src="/pics/ge.jfif" width="50" height="50"></a>
+<a href="https://www.gehealthcare.com/"><img align="right" src="/pics/ge.jfif" width="50" height="50" style="vertical-align: text-bottom; margin: 0 0 0px;"></a>
 ### GE Healthcare Shanghai Co., Ltd.
 ***Shanghai, China***\
 *Jul 2021 - Aug 2021*
 
-<a href="http://sc.comac.cc/"><img align="right" src="/pics/comac.jfif" width="50" height="50"></a>
+<a href="http://sc.comac.cc/"><img align="right" src="/pics/comac.jfif" width="50" height="50" style="vertical-align: text-bottom; margin: 0 0 0px;"></a>
 ### Shanghai Aircraft Customer Service Co., Ltd.
 ***Shanghai, China***\
 *May 2021 - Jun 2021*
 
-<a href="https://www.ysr-motoman.cn/en/"><img align="right" src="/pics/yaskawa.jfif" width="50" height="50"></a>
+<a href="https://www.ysr-motoman.cn/en/"><img align="right" src="/pics/yaskawa.jfif" width="50" height="50" style="vertical-align: text-bottom; margin: 0 0 0px;"></a>
 ### Yaskawa Shougang Robot Co.,Ltd.
 ***Shanghai, China***\
 *May 2019 - Jun 2019*
