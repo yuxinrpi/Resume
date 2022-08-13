@@ -10,7 +10,7 @@ I am actively looking for a full-time job as a Mechanical Engineer/Product Manag
 Please feel free to contact me if you are interested via <a href="mailto:yuxinhu@berkeley.edu">Email</a>!
 ## Education
 ---
-<a href="https://www.berkeley.edu"><img align="right" src="/pics/berkeley.jfif" width="50" height="50"></a>
+<a href="https://www.berkeley.edu"><img align="right" src="/pics/berkeley.jfif" width="50" height="50" style="vertical-align: text-bottom;">
 ### University of California, Berkeley
 ***Berkeley, CA, US***\
 **MEng** *Mechanical Engineering*\
