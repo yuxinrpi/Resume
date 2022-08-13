@@ -1,12 +1,12 @@
-# Hello! 
+# Hello there!
 ## This is my resume page!
 <!-- ### You can also [download as PDF](/files/Resume.pdf)! -->
 ---
 *(This site is under construction now, check back later!)*\
 
-I am an incoming graduate student at UC Berkeley, starting *Fall 2022*.\
+I am a Master student at UC Berkeley, starting *Fall 2022*.\
 I am actively looking for a full-time job as a Mechanical Engineer/Product Manager starting *Summer 2023*.
-
+Please feel free to contact me if you are interested <a href="yuxinhu@berkeley.edu">@myEmail</a>!
 ## Education
 ---
 <a href="https://www.berkeley.edu"><img align="right" src="/pics/berkeley.jfif" width="50" height="50"></a>
