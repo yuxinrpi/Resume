@@ -3,7 +3,6 @@
 ## Intro
 ---
 *(This site is under construction now, check back later!)*\
-This is my resume page, you can also view my projects and others using the tab on the left.\
 
 I am a Master student at UC Berkeley, starting *Fall 2022*.\
 I am actively looking for a full-time job as a Mechanical Engineer/Product Manager starting *Summer 2023*.\
