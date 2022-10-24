@@ -5,5 +5,5 @@
 ## Demo
 ---
 <iframe
-  src="https://www.youtube.com/watch?v=WkXSZvh1O7w">
+  src="https://youtu.be/WkXSZvh1O7w">
 </iframe>
