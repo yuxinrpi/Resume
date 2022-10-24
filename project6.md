@@ -74,6 +74,18 @@ input[type='checkbox'] {
 }
 </style>
 
+
+
+<div class="wrap-collabsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">Apple Picker</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+    <iframe frameborder="0" src="https://itch.io/embed/735145" width="490" height="150"><a href="https://moritomo.itch.io/applepicker">ApplePicker by Moritomo</a></iframe>
+    </div>
+  </div>
+</div>
+
 <div class="wrap-collabsible">
   <input id="collapsible" class="toggle" type="checkbox">
   <label for="collapsible" class="lbl-toggle">Platformer</label>
@@ -83,6 +95,7 @@ input[type='checkbox'] {
     </div>
   </div>
 </div>
+
 <div class="wrap-collabsible">
   <input id="collapsible" class="toggle" type="checkbox">
   <label for="collapsible" class="lbl-toggle">Shump</label>
