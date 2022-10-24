@@ -49,7 +49,13 @@ Sleep Aid Device (SAD) is a circadian rhythm monitoring and adjusting system tha
     <img src="/project1/soft_5.png" alt="Blood Oxygen" style="width:100%">
   </div>
   <div class="column">
-  <p>Info Screens</p>
+  <p>Five info screens</p>
+  <p>1. Network Time Clock</p>
+  <p>2. Body Temperature</p>
+  <p>3. Sleepiness Level</p>
+  <p>4. Heart Rate Monitor</p>
+  <p>5. Blood Oxygen Monitor</p>
+  <p>Results can be plotted as below</p>
   </div>
 </div>
 <img src="/project1/soft_6.gif" alt="Heart Rate Monitor" style="width:100%">
