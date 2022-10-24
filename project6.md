@@ -19,13 +19,16 @@ input[type='checkbox'] {
 
   padding: 1rem;
 
-  background: #666;
+  background: #888;
   color: #eee;
 
   cursor: pointer;
 
-  border-radius: 3px;
+  border-style: solid;
+  border-color: #999;
+  border-radius: 5px;
   transition: all 0.25s ease-out;
+
 }
 
 .lbl-toggle:hover {
