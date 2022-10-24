@@ -85,7 +85,7 @@ input[type='checkbox'] {
     </div>
   </div>
 </div>
-<p style="margin-bottom: 5px;""></p>
+<p style="margin-bottom: 5px;"></p>
 
 <div class="wrap-collabsible" margin>
   <input id="collapsible2" class="toggle" type="checkbox">
