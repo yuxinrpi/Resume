@@ -43,19 +43,37 @@ Sleep Aid Device (SAD) is a circadian rhythm monitoring and adjusting system tha
 </div>
 <div class="row">
   <div class="column">
+  <p style="margin: 0px;">1. Network Time Clock</p>
+  </div>
+  <div class="column">
+  <p style="margin: 0px;">2. Body Temperature</p>
+  </div>
+  <div class="column">
+  <p style="margin: 0px;">3. Sleepiness Level</p>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
     <img src="/project1/soft_4.png" alt="Heart Rate" style="width:100%">
   </div>
   <div class="column">
     <img src="/project1/soft_5.png" alt="Blood Oxygen" style="width:100%">
   </div>
   <div class="column">
-  <p style="margin: 0px;">Five info screens</p>
-  <p style="margin: 0px;">1. Network Time Clock</p>
-  <p style="margin: 0px;">2. Body Temperature</p>
-  <p style="margin: 0px;">3. Sleepiness Level</p>
-  <p style="margin: 0px;">4. Heart Rate</p>
-  <p style="margin: 0px;">5. Blood Oxygen</p>
-  <p style="margin: 0px;">Results can be plotted as below</p>
+  <p style="margin: 0px;">Five major functions</p>
   </div>
 </div>
+
+<div class="row">
+  <div class="column">
+  <p style="margin: 0px;">4. Heart Rate</p>
+  </div>
+  <div class="column">
+  <p style="margin: 0px;">5. Blood Oxygen</p>
+  </div>
+  <div class="column">
+
+  </div>
+</div>
+
 <img src="/project1/soft_6.gif" alt="Heart Rate Monitor" style="width:100%">
