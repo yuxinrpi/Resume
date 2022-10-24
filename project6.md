@@ -77,17 +77,17 @@ input[type='checkbox'] {
 }
 </style>
 
-<div class="wrap-collabsible">
+<div class="wrap-collabsible" margin-bottom="20px">
   <input id="collapsible1" class="toggle" type="checkbox">
   <label for="collapsible1" class="lbl-toggle">Adventure</label>
   <div class="collapsible-content">
     <div class="content-inner">
-    <iframe frameborder="0" src="https://itch.io/embed/735139" width="450" height="150"><a href="https://moritomo.itch.io/adventure">Adventure by Moritomo</a></iframe>
+    <iframe frameborder="0" src="https://itch.io/embed/735139" width="100%" height="150"><a href="https://moritomo.itch.io/adventure">Adventure by Moritomo</a></iframe>
     </div>
   </div>
 </div>
 
-<div class="wrap-collabsible">
+<div class="wrap-collabsible" margin>
   <input id="collapsible2" class="toggle" type="checkbox">
   <label for="collapsible2" class="lbl-toggle">Apple Picker</label>
   <div class="collapsible-content">
