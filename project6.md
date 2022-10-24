@@ -31,7 +31,7 @@ input[type='checkbox'] {
 }
 
 .lbl-toggle:hover {
-  color: #555;
+  color: #333;
 }
 
 .lbl-toggle::before {
