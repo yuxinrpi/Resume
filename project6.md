@@ -25,7 +25,7 @@ input[type='checkbox'] {
   cursor: pointer;
 
   border-style: solid;
-  border-color: #999;
+  border-color: #666;
   border-radius: 5px;
   transition: all 0.25s ease-out;
 
@@ -77,7 +77,7 @@ input[type='checkbox'] {
 }
 </style>
 
-<div class="wrap-collabsible" margin-bottom="20px">
+<div class="wrap-collabsible">
   <input id="collapsible1" class="toggle" type="checkbox">
   <label for="collapsible1" class="lbl-toggle">Adventure</label>
   <div class="collapsible-content">
@@ -86,7 +86,7 @@ input[type='checkbox'] {
     </div>
   </div>
 </div>
-
+<p></p>
 <div class="wrap-collabsible" margin>
   <input id="collapsible2" class="toggle" type="checkbox">
   <label for="collapsible2" class="lbl-toggle">Apple Picker</label>
