@@ -30,3 +30,22 @@
 <div class="content">
   <iframe frameborder="0" src="https://itch.io/embed-upload/2620788?color=333333" allowfullscreen="" width="980" height="688"><a href="https://moritomo.itch.io/adventure">Play Adventure on itch.io</a></iframe>
 </div>
+
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+</script>
