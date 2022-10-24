@@ -31,7 +31,7 @@ input[type='checkbox'] {
 }
 
 .lbl-toggle:hover {
-  color: #aaa;
+  color: #555;
 }
 
 .lbl-toggle::before {
@@ -85,7 +85,7 @@ input[type='checkbox'] {
     </div>
   </div>
 </div>
-<spacer type="vertical" size="5px">
+<p margin-bottom: 5px;></p>
 
 <div class="wrap-collabsible" margin>
   <input id="collapsible2" class="toggle" type="checkbox">
