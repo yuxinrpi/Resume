@@ -19,8 +19,8 @@ input[type='checkbox'] {
 
   padding: 1rem;
 
-  background: #eee;
-  color: #444;
+  background: #555;
+  color: #eee;
 
   cursor: pointer;
 
@@ -65,8 +65,8 @@ input[type='checkbox'] {
 }
 
 .collapsible-content .content-inner {
-  background: rgba(250, 224, 66, .2);
-  border-bottom: 1px solid rgba(250, 224, 66, .45);
+  background: rgba(60, 60, 60, .2);
+  border-bottom: 1px solid rgba(60, 60, 60, .45);
   border-bottom-left-radius: 7px;
   border-bottom-right-radius: 7px;
   padding: .5rem 1rem;
@@ -79,7 +79,17 @@ input[type='checkbox'] {
   <div class="collapsible-content">
     <div class="content-inner">
       <p style="margin: 0px;">Shump (Shoot them up) is a shooting game.</p>
-      <iframe frameborder="0" src="https://itch.io/embed/735154?linkback=true" width="552" height="167"><a href="https://moritomo.itch.io/shump">Shump by Moritomo</a></iframe>
+      <iframe frameborder="0" src="https://itch.io/embed/735154?linkback=true" width="490" height="150"><a href="https://moritomo.itch.io/shump">Shump by Moritomo</a></iframe>
+    </div>
+  </div>
+</div>
+<div class="wrap-collabsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">Shump</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p style="margin: 0px;">Shump (Shoot them up) is a shooting game.</p>
+      <iframe frameborder="0" src="https://itch.io/embed/735154?linkback=true" width="490" height="150"><a href="https://moritomo.itch.io/shump">Shump by Moritomo</a></iframe>
     </div>
   </div>
 </div>
