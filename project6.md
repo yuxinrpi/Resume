@@ -82,7 +82,7 @@ input[type='checkbox'] {
   <label for="collapsible1" class="lbl-toggle">Adventure</label>
   <div class="collapsible-content">
     <div class="content-inner">
-    <iframe frameborder="0" src="https://itch.io/embed/735139" width="490" height="150"><a href="https://moritomo.itch.io/adventure">Adventure by Moritomo</a></iframe>
+    <iframe frameborder="0" src="https://itch.io/embed/735139" width="450" height="150"><a href="https://moritomo.itch.io/adventure">Adventure by Moritomo</a></iframe>
     </div>
   </div>
 </div>
@@ -92,7 +92,7 @@ input[type='checkbox'] {
   <label for="collapsible2" class="lbl-toggle">Apple Picker</label>
   <div class="collapsible-content">
     <div class="content-inner">
-    <iframe frameborder="0" src="https://itch.io/embed/735145" width="490" height="150"><a href="https://moritomo.itch.io/applepicker">ApplePicker by Moritomo</a></iframe>
+    <iframe frameborder="0" src="https://itch.io/embed/735145" width="450" height="150"><a href="https://moritomo.itch.io/applepicker">ApplePicker by Moritomo</a></iframe>
     </div>
   </div>
 </div>
@@ -102,7 +102,7 @@ input[type='checkbox'] {
   <label for="collapsible3" class="lbl-toggle">Platformer</label>
   <div class="collapsible-content">
     <div class="content-inner">
-      <iframe frameborder="0" src="https://itch.io/embed/734509" width="490" height="150"><a href="https://moritomo.itch.io/platformer">Platformer by Moritomo</a></iframe>
+      <iframe frameborder="0" src="https://itch.io/embed/734509" width="450" height="150"><a href="https://moritomo.itch.io/platformer">Platformer by Moritomo</a></iframe>
     </div>
   </div>
 </div>
@@ -113,7 +113,7 @@ input[type='checkbox'] {
   <div class="collapsible-content">
     <div class="content-inner">
       <p style="margin: 0px;">Shump (Shoot them up) is a shooting game.</p>
-      <iframe frameborder="0" src="https://itch.io/embed/735154?linkback=true" width="490" height="150"><a href="https://moritomo.itch.io/shump">Shump by Moritomo</a></iframe>
+      <iframe frameborder="0" src="https://itch.io/embed/735154?linkback=true" width="450" height="150"><a href="https://moritomo.itch.io/shump">Shump by Moritomo</a></iframe>
     </div>
   </div>
 </div>
