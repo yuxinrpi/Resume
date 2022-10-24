@@ -79,7 +79,7 @@ input[type='checkbox'] {
   <label for="collapsible" class="lbl-toggle">More Info</label>
   <div class="collapsible-content">
     <div class="content-inner">
-      <iframe frameborder="0" src="https://itch.io/embed-upload/2620788?color=333333" allowfullscreen="" width="980" height="688"><a href="https://moritomo.itch.io/adventure">Play Adventure on itch.io</a></iframe>
+      <iframe frameborder="0" src="https://itch.io/embed-upload/2620863?color=333333" allowfullscreen="" width="980" height="688"><a href="https://moritomo.itch.io/shump">Play Shump on itch.io</a></iframe>
     </div>
   </div>
 </div>
