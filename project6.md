@@ -25,7 +25,6 @@ input[type='checkbox'] {
   cursor: pointer;
 
   border-style: solid;
-  border-color: #666;
   border-radius: 5px;
   transition: all 0.25s ease-out;
 
@@ -86,7 +85,8 @@ input[type='checkbox'] {
     </div>
   </div>
 </div>
-<spacer type="verticale" size="5px">
+<spacer type="vertical" size="5px">
+
 <div class="wrap-collabsible" margin>
   <input id="collapsible2" class="toggle" type="checkbox">
   <label for="collapsible2" class="lbl-toggle">Apple Picker</label>
