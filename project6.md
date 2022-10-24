@@ -74,4 +74,12 @@ input[type='checkbox'] {
 }
 </style>
 
-<div class="wrap-collabsible"> <input id="collapsible" class="toggle" type="checkbox"> <label for="collapsible" class="lbl-toggle">More Info</label><div class="collapsible-content"><div class="content-inner"><p> QUnit is by calling one of the object that are embedded in JavaScript, and faster JavaScript program could also used with its elegant, well documented, and functional programming using JS, HTML pages Modernizr is a popular browsers without plug-ins. Test-Driven Development.</p></div></div></div>
+<div class="wrap-collabsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">More Info</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <iframe frameborder="0" src="https://itch.io/embed-upload/2620788?color=333333" allowfullscreen="" width="980" height="688"><a href="https://moritomo.itch.io/adventure">Play Adventure on itch.io</a></iframe>
+    </div>
+  </div>
+</div>
