@@ -19,16 +19,17 @@ input[type='checkbox'] {
 
   padding: 1rem;
 
-  background: #555;
+  background: #666;
   color: #eee;
 
   cursor: pointer;
 
+  border-radius: 3px;
   transition: all 0.25s ease-out;
 }
 
 .lbl-toggle:hover {
-  color: #ccc;
+  color: #aaa;
 }
 
 .lbl-toggle::before {
@@ -75,11 +76,10 @@ input[type='checkbox'] {
 
 <div class="wrap-collabsible">
   <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">Shump</label>
+  <label for="collapsible" class="lbl-toggle">Platformer</label>
   <div class="collapsible-content">
     <div class="content-inner">
-      <p style="margin: 0px;">Shump (Shoot them up) is a shooting game.</p>
-      <iframe frameborder="0" src="https://itch.io/embed/735154?linkback=true" width="490" height="150"><a href="https://moritomo.itch.io/shump">Shump by Moritomo</a></iframe>
+      <iframe frameborder="0" src="https://itch.io/embed/734509" width="490" height="150"><a href="https://moritomo.itch.io/platformer">Platformer by Moritomo</a></iframe>
     </div>
   </div>
 </div>
