@@ -1,4 +1,4 @@
-# Welcome to my resume page!
+# Resume
 <!-- ### You can also [download as PDF](/files/Resume.pdf)! -->
 ## Intro
 ---
