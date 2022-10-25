@@ -100,7 +100,7 @@ input[type='checkbox'] {
   <label for="collapsible4" class="lbl-toggle">Shump</label>
   <div class="collapsible-content">
     <div class="content-inner">
-      <p style="margin: 0px;">Shump (Shoot them up) is a shooting game. Players has to use the weapon to protect themselves from the evil robots.</p>
+      <p style="margin: 0px;">Shump (Shoot them up) is a shooting game. Players have to use the weapon to protect themselves from the evil robots.</p>
       <strong>Control method:</strong>
        <p>WASD or ↑↓←→ for direction, left button to shoot.</p>
       <iframe frameborder="0" src="https://itch.io/embed-upload/2620863?color=333333" allowfullscreen="" width="450" height="350"><a href="https://moritomo.itch.io/shump">Play Shump on itch.io</a></iframe>
