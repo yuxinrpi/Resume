@@ -3,7 +3,7 @@
 ---
 This project is a class project of **MANE-4220 Inventor Studio II** @ RPI.\
 Yuxin was the **team leader**, and was in charge of the CAD design.
-> The presence of harmful algal blooms is gradually increasing, poisoning marine vertebrates as well as destroying their habitat. This greatly impacts species such as fish, seabirds, manatees, and shallow marine ecosystems.  Algal blooms are also toxic to humans through direct contact or even consumption of an infected animal. This greatly impacts areas in which economies heavily rely on fishing or ecotourism.
+> The presence of harmful algal blooms is gradually increasing, poisoning marine vertebrates as well as destroying their habitat. This greatly impacts species such as fish, seabirds, manatees, and shallow marine ecosystems.  Algal blooms are also toxic to humans through direct contact or even consumption of an infected animal. This greatly impacts areas in which economies heavily rely on fishing or ecotourism.\
 > To solve the algal bloom problem, the team proposed a solution by creating a motorized, solar powered, device that collects algae and packs them into chunks that could be used as bio-fuel.
 
 ##Solution
