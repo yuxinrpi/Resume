@@ -33,15 +33,15 @@ Yuxin was the **team leader**, and was in charge of the CAD design.
     <p style="margin: 0px;">Side View</p>
   </div>
   <div class="column">
-    <img src="/project2/bottom.png" style="width:100%">
-    <p style="margin: 0px;">Bottom View</p>
+    <img src="/project2/cross.png" style="width:100%">
+    <p style="margin: 0px;">Cross-section View</p>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
-    <img src="/project2/cross.png" style="width:100%">
-    <p style="margin: 0px;">Cross-section View</p>
+    <img src="/project2/bottom.png" style="width:100%">
+    <p style="margin: 0px;">Bottom View</p>
   </div>
   <div class="column">
     <img src="/project2/exp.png" style="width:100%">
@@ -49,7 +49,7 @@ Yuxin was the **team leader**, and was in charge of the CAD design.
   </div>
 </div>
 
-<img src="/project2/crosssection.png" style="width:100%">
+<img src="/project2/crosssection.png" style="width:60%">
 <img src="/project2/explosion.png" style="width:100%">
 
 
