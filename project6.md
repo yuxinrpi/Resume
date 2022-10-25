@@ -1,5 +1,8 @@
 # Intro to Game programming
-The games below are the class project of GSAS-2540 Intro to Game Programming at RPI. All of the games were programmed in unity with C#. These games are made on a solo team.
+The games below are the class project of GSAS-2540 Intro to Game Programming at RPI.\
+All of the games were programmed in unity with C#.\
+These games are made on a solo team.\
+Please use the tabs below to try each game!
 
 <style>
 .wrap-collabsible {
