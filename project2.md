@@ -51,3 +51,9 @@ Yuxin was the **team leader**, and was in charge of the CAD design.
 
 <img src="/project2/crosssection.png" style="width:100%">
 <img src="/project2/explosion.png" style="width:100%">
+
+
+## Prototype
+---
+<img src="/project2/proto1.png" style="width:100%">
+<img src="/project2/proto2.png" style="width:100%">
