@@ -108,4 +108,3 @@ input[type='checkbox'] {
     </div>
   </div>
 </div>
-<p style="margin-bottom: 5px;"></p>
