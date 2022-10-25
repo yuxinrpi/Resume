@@ -82,9 +82,10 @@ input[type='checkbox'] {
   <label for="collapsible3" class="lbl-toggle">Platformer</label>
   <div class="collapsible-content">
     <div class="content-inner">
-      <pre>This game is a platformer game. The player needs to overcome the barriers and reach the goal on the right.
-      Control method: WASD or ↑↓←→ for direction, space for jump. Hold space on the wall to climb up.</pre>
-      <iframe frameborder="0" src="https://itch.io/embed-upload/2622018?color=333333" allowfullscreen="" width="980" height="688"><a href="https://moritomo.itch.io/platformer">Play Platformer on itch.io</a></iframe>
+      This game is a platformer game. The player needs to overcome the barriers and reach the goal on the right.\
+      **Control method:**\
+       WASD or ↑↓←→ for direction, space for jump. Hold space on the wall to climb up.
+      <iframe frameborder="0" src="https://itch.io/embed-upload/2622018?color=333333" allowfullscreen="" width="400" height="300"><a href="https://moritomo.itch.io/platformer">Play Platformer on itch.io</a></iframe>
     </div>
   </div>
 </div>
