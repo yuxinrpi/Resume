@@ -1,4 +1,6 @@
 # Intro to Game programming
+The games below are the class project of GSAS-2540 Intro to Game Programming at RPI. All of the games were programmed in unity with C#. These games are made on a solo team.
+
 <style>
 .wrap-collabsible {
   margin-bottom: 1.2rem 0;
@@ -76,32 +78,12 @@ input[type='checkbox'] {
 </style>
 
 <div class="wrap-collabsible">
-  <input id="collapsible1" class="toggle" type="checkbox">
-  <label for="collapsible1" class="lbl-toggle">Adventure</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-    <iframe frameborder="0" src="https://itch.io/embed/735139" width="100%" height="150"><a href="https://moritomo.itch.io/adventure">Adventure by Moritomo</a></iframe>
-    </div>
-  </div>
-</div>
-<p style="margin-bottom: 5px;"></p>
-
-<div class="wrap-collabsible">
-  <input id="collapsible2" class="toggle" type="checkbox">
-  <label for="collapsible2" class="lbl-toggle">Apple Picker</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-    <iframe frameborder="0" src="https://itch.io/embed/735145" width="100%" height="150"><a href="https://moritomo.itch.io/applepicker">ApplePicker by Moritomo</a></iframe>
-    </div>
-  </div>
-</div>
-<p style="margin-bottom: 5px;"></p>
-
-<div class="wrap-collabsible">
   <input id="collapsible3" class="toggle" type="checkbox">
   <label for="collapsible3" class="lbl-toggle">Platformer</label>
   <div class="collapsible-content">
     <div class="content-inner">
+      This game is a platformer game. The player needs to overcome the barriers and reach the goal on the right.
+      Control method: WASD or ↑↓←→ for direction, space for jump. Hold space on the wall to climb up.
       <iframe frameborder="0" src="https://itch.io/embed/734509" width="100%" height="150"><a href="https://moritomo.itch.io/platformer">Platformer by Moritomo</a></iframe>
     </div>
   </div>
