@@ -85,8 +85,8 @@ input[type='checkbox'] {
       <p>This game is a platformer game. The player needs to overcome the barriers and reach the goal on the right.</p>
       <strong>Control method:</strong>
        <p>WASD or ↑↓←→ for direction, space for jump. Hold space on the wall to climb up.</p>
-      <iframe frameborder="0" src="https://itch.io/embed-upload/2622018?color=333333" allowfullscreen="" width="400" height="300"><a href="https://moritomo.itch.io/platformer">Play Platformer on itch.io</a></iframe>
-      <p>Full screen for best experience</p>
+      <iframe frameborder="0" src="https://itch.io/embed-upload/2622018?color=333333" allowfullscreen="" width="450" height="350"><a href="https://moritomo.itch.io/platformer">Play Platformer on itch.io</a></iframe>
+      <p><strong>Note:</strong>Full screen for best experience</p>
     </div>
   </div>
 </div>
@@ -97,8 +97,11 @@ input[type='checkbox'] {
   <label for="collapsible4" class="lbl-toggle">Shump</label>
   <div class="collapsible-content">
     <div class="content-inner">
-      <p style="margin: 0px;">Shump (Shoot them up) is a shooting game.</p>
-      <iframe frameborder="0" src="https://itch.io/embed/735154?linkback=true" width="100%" height="150"><a href="https://moritomo.itch.io/shump">Shump by Moritomo</a></iframe>
+      <p style="margin: 0px;">Shump (Shoot them up) is a shooting game. Players has to use the weapon to protect themselves from the evil robots.</p>
+      <strong>Control method:</strong>
+       <p>WASD or ↑↓←→ for direction, left button to shoot.</p>
+      <iframe frameborder="0" src="https://itch.io/embed-upload/2620863?color=333333" allowfullscreen="" width="450" height="350"><a href="https://moritomo.itch.io/shump">Play Shump on itch.io</a></iframe>
+      <p><strong>Note:</strong>Full screen for best experience</p>
     </div>
   </div>
 </div>
