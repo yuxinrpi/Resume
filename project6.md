@@ -17,21 +17,20 @@ input[type='checkbox'] {
   text-transform: uppercase;
   text-align: center;
 
-  padding: 1rem;
+  padding: 0.5rem;
 
-  background: #ccc;
-  color: #999;
+  background: #267CB9;
+  color: #fff;
 
   cursor: pointer;
 
-  border-style: solid;
   border-radius: 5px;
   transition: all 0.25s ease-out;
 
 }
 
 .lbl-toggle:hover {
-  color: #333;
+  color: #ccc;
 }
 
 .lbl-toggle::before {
