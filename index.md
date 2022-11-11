@@ -15,6 +15,9 @@ code {
 I am a Master student at UC Berkeley, starting *Fall 2022*.\
 I am actively looking for a full-time job as a Mechanical Engineer / Product Manager starting *Summer 2023*.\
 Please feel free to contact me if you are interested via <a href="mailto:yuxinhu@berkeley.edu">Email</a>!
+
+<br>
+
 ## Education
 ---
 <a href="https://www.berkeley.edu"><img align="right" src="/pics/berkeley.jfif" width="50" height="50" style="vertical-align: text-bottom;"></a>
@@ -61,7 +64,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
   - `Thermal & Fluid Lab`
   - `Control System Lab`
 
-  
+
 **Computer Science Core Classes**:
   - `Computer Science I (Python)`
   - `Data Structures (C++)`
