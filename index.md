@@ -1,4 +1,11 @@
-<style> ul {margin:0 0 0px;}</style>
+<style>
+ul {margin:0 0 0px;}
+code {
+    padding: 3px;
+    font-size: 12px;
+    background-color: #eee;
+    border-radius: 4px;}
+</style>
 # Resume
 <!-- ### You can also [download as PDF](/files/Resume.pdf)! -->
 ## Intro
