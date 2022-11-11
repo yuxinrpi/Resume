@@ -22,6 +22,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
     - `Product Developement (Tentative)`
     - `Vehicle Dynamics & Control (Tentative)`
     - `Design of Microprocessor (Tentative)`
+<br></br>
 
 <a href="https://www.rpi.edu"><img align="right" src="/pics/rpi.jfif" width="50" height="50"></a>
 <h3 style="margin: 0 0 2px;">Rensselaer Polytechnic Institute</h3>
@@ -60,7 +61,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
     - `Intro to Algorithms`
     - `Computer Vision (Python w/ OpenCV2 & PyTorch)`
     - `Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)`
-
+<br></br>
 
 <a href="https://www.nanzan-u.ac.jp/English/"><img align="right" src="/pics/nanzan.png" width="50" height="50"></a>
 <h3 style="margin: 0 0 2px;">Nanzan University</h3>
@@ -70,7 +71,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 - **Intensive Japanese Program, Center of Japanese Studies**
 - **Semester GPA**: *3.87/4.00*
 - **Program Date**: *Spring 2021*
-
+<br></br>
 
 ## Working Experience
 ---
@@ -81,6 +82,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 
 ***Shanghai, China***\
 *Jul 2021 - Aug 2021*
+<br></br>
 
 <a href="http://sc.comac.cc/"><img align="right" src="/pics/comac.jfif" width="50" height="50"></a>
 <h3 style="margin: 0 0 2px;">Shanghai Aircraft Customer Service Co., Ltd.</h3>
@@ -88,6 +90,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 
 ***Shanghai, China***\
 *May 2021 - Jun 2021*
+<br></br>
 
 <a href="https://www.ysr-motoman.cn/en/"><img align="right" src="/pics/yaskawa.jfif" width="50" height="50"></a>
 <h3 style="margin: 0 0 2px;">Yaskawa Shougang Robot Co.,Ltd.</h3>
