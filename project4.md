@@ -56,7 +56,8 @@ The project expands the project 2 from 2D space to 3D space. The S curve was pro
 
 <img src="/project4/irb1200.gif" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block; float: left;padding: 5px;">
 
-<br>
+<p style="margin: 0px;" align="middle">(Left) The S curve project on sphere</p>
+<p style="margin: 0px;" align="middle">(Right) IRB1200 tracking the curve</p>
 
 ## Project 4 - 3D Jacobian Inverse Kinematics
 ---
