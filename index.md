@@ -84,8 +84,13 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <!-- Nanzan University-->
 
 **Intensive Japanese Program, Center of Japanese Studies**\
-**Semester GPA**: *3.87/4.00*\
+**Semester GPA**: *3.87/4.00* \
 **Program Date**: *Spring 2021*
+**Classes**:
+  - `Japanese I`
+  - `Japanese Popular Culture`
+  - `Topics in Japanese Linguistics`
+  - `Writing for Communication`
 
 <br>
 
@@ -98,6 +103,20 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 
 ***Shanghai, China***\
 *Jul 2021 - Aug 2021*
+**Main Contributions:**
+- Production Line Improvement
+  - Implemented automatic configuration setting on packaging machinery for different material flow and bottle specifications
+  - Set up automatic shutdown in case unsolvable error occurs by Industrial PLC programming
+  - Drew the Line C electrical wiring diagram to help maintenance personnel locate errors more rapidly and accurately
+  - Developed a power usage monitoring system including system hardware and software design, assembly, and onsite testing that helps eliminate the risks of massive scrapping due to contingent system malfunctioning
+- Information System Development
+  - Designed a Python scraper that can automatically capture the data from the company’s production system, output it to the management system, and realize visualization through data cleaning and interpretation
+  - Participated in the bidding of three suppliers and evaluated their qualification through field visits
+- Evaluation of Suppliers’ Schemes
+  - Analyzed the user requirement specification and investigated the efficiency of the existing production line
+  - Participated in the bidding of three suppliers and evaluated their qualification through field visits
+  - Analyzed quantitatively the transformation schemes of Line D provided by three suppliers, and gave feedback from the perspectives of quotation, materials, design rationality, benefit, flexibility, and expected cost cut down, etc.
+
 
 <br>
 
@@ -107,6 +126,10 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 
 ***Shanghai, China***\
 *May 2021 - Jun 2021*
+**Main Contributions:**
+- Supported designing and developing the thru flight check and maintenance IoT devices; Collected the aircraft damage samples and images for the future research with machine learning models
+- Developed independently a useful tool with Python that helps estimate the flight cost of various aircrafts, with features such as cost comparison among different aircrafts, load planning and visualization
+- Assisted in the establishment of the IoT device lab and Cloud computing center, and proposed an equipment list based on the R&D strategy of the company
 
 <br>
 
@@ -116,6 +139,9 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 
 ***Shanghai, China***\
 *May 2019 - Jun 2019*
+**Main Contributions:**
+- Learned the hardware and software mechanism of industrial robot arms control, including PLC, robot teaching, etc
+- Supported professional engineers to build an automobile chassis welding assembly line, using Yaskawa robot arms
 
 <br>
 
