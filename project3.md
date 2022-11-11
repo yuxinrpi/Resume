@@ -11,16 +11,16 @@ Yuxin was the **team leader**, and was in charge of Computer Vision.
 ## Setup
 ---
 The duckiebot is a 2 wheel differential robot controlled by Raspberry Pi. The wheels on the side can be controlled to rotate independently, and hence the duckiebot can control the speed and angular speed.
-<img src="/project3/duckie.png" style="width:100%">
+<img src="/project3/duckie.png" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block;">
 
 To achieve the auto-parking goal, the system was divided into two halves, where Yuxin was in charge of the Computer Vision processing.
-<img src="/project3/structure.png" style="width:100%">
+<img src="/project3/structure.png" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block;">
 
 The image was captured by the camera located on the duckiebot, and then it was transferred to the remote computer for further processing. The main goal is to locate the parking box, and find the relative distance and angle using perspective-to-perspective algorithms.
 <img src="/project3/CV.png" style="width:100%">
 
 Then a map was reconstructed to help visualize the process. It marks the duckiebot's position and the location of the parking space.
-<img src="/project3/map.png" style="width:100%">
+<img src="/project3/map.png" style="width:30%;align-items: center;margin-left: auto;margin-right: auto;display: block;">
 
 An simple user interface was made to connect the Computer Vision component with the motion control subsystem.
 <img src="/project3/UI.png" style="width:100%">
