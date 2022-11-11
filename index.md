@@ -1,3 +1,4 @@
+<style>{margin: 0 0 0px;}</style>
 # Resume
 <!-- ### You can also [download as PDF](/files/Resume.pdf)! -->
 ## Intro
