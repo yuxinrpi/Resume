@@ -1,4 +1,3 @@
-<style>{margin: 0 0 0px;}</style>
 # Resume
 <!-- ### You can also [download as PDF](/files/Resume.pdf)! -->
 ## Intro
@@ -31,6 +30,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 **Minor**:  *Computer Science*\
 **GPA**: *3.78/4.00*\
 **Graduation**: *May 2022*\
+<p style="margin: 0 0 0px"></p>
 **Mechanical Core Classes**:
 * Engineering Graphics & CAD
 * Engineering Analysis
