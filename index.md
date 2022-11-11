@@ -2,75 +2,73 @@
 <!-- ### You can also [download as PDF](/files/Resume.pdf)! -->
 ## Intro
 ---
-*(This site is under construction now, check back later!)*\
-
+*(This site is under construction now, check back later!)*
 I am a Master student at UC Berkeley, starting *Fall 2022*.\
-I am actively looking for a full-time job as a Mechanical Engineer/Product Manager starting *Summer 2023*.\
+I am actively looking for a full-time job as a Mechanical Engineer / Product Manager starting *Summer 2023*.\
 Please feel free to contact me if you are interested via <a href="mailto:yuxinhu@berkeley.edu">Email</a>!
 ## Education
 ---
 <a href="https://www.berkeley.edu"><img align="right" src="/pics/berkeley.jfif" width="50" height="50" style="vertical-align: text-bottom;"></a>
 <h3 style="margin: 0 0 2px;">University of California, Berkeley</h3>
+<p style="margin: 0 0 2px;"><em><strong>Berkeley, CA, US </strong></em></p>
 
-***Berkeley, CA, US***\
-**MEng** *Mechanical Engineering*\
-**Concentration**: *Product Design*\
-**Expected graduation**: *June 2023*\
-**Core Classes**:
-* Food Science
-* Machine Learning (Python w/ TensorFlow)
-* Product Developement (Tentative)
-* Vehicle Dynamics & Control (Tentative)
-* Design of Microprocessor (Tentative)
+- **MEng** *Mechanical Engineering*
+- **Concentration**: *Product Design*
+- **Expected graduation**: *June 2023*
+- **Core Classes**:
+  - `Food Science`
+  - `Machine Learning (Python w/ TensorFlow)`
+  - `Product Developement (Tentative)`
+  - `Vehicle Dynamics & Control (Tentative)`
+  - `Design of Microprocessor (Tentative)`
 
 <a href="https://www.rpi.edu"><img align="right" src="/pics/rpi.jfif" width="50" height="50"></a>
 <h3 style="margin: 0 0 2px;">Rensselaer Polytechnic Institute</h3>
+<p style="margin: 0 0 2px;"><em><strong>Troy, NY, US </strong></em></p>
 <!-- ### Rensselaer Polytechnic Institute-->
 
-***Troy, NY, US***\
-**BS** *Mechanical Engineering*\
-**Minor**:  *Computer Science*\
-**GPA**: *3.78/4.00*\
-**Graduation**: *May 2022*\
-**Mechanical Core Classes**:
-* Engineering Graphics & CAD
-* Engineering Analysis
-* Material Science
-* Strength of Materials
-* Dynamics
-* Engineering Design
-* Fluid Mechanics
-* Thermal Dynamics
-* Elements of Mechanical Design
-* Modeling and Control of Dynamic System
-* Electronic Instrumentation
-* Heat Transfer
-* Mechanical System Lab
-* Thermal & Fluid Lab
-* Robotics
-* Control System Lab
-* Intro to Finite Elements
-
-**Computer Science Core Classes**:
-* Computer Science I (Python)
-* Data Structures (C++)
-* Numerical Methods and Programming (Python w/ Numpy)
-* Game Programming (Unity w/ C#)
-* Foundation of Computer Science (Discrete Math)
-* Computer Organization (C, MIPS)
-* Intro to Algorithms
-* Computer Vision (Python w/ OpenCV2 & PyTorch)
-* Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)
+-  **BS** *Mechanical Engineering*
+-  **Minor**:  *Computer Science*
+-  **GPA**: *3.78/4.00*
+-  **Graduation**: *May 2022*
+-  **Mechanical Core Classes**:
+  - `Engineering Graphics & CAD`
+  - `Engineering Analysis`
+  - `Material Science`
+  - `Strength of Materials`
+  - `Dynamics`
+  - `Engineering Design`
+  - `Fluid Mechanics`
+  - `Thermal Dynamics`
+  - `Elements of Mechanical Design`
+  - `Modeling and Control of Dynamic System`
+  - `Electronic Instrumentation`
+  - `Heat Transfer`
+  - `Mechanical System Lab`
+  - `Thermal & Fluid Lab`
+  - `Robotics`
+  - `Control System Lab`
+  - `Intro to Finite Elements`
+- **Computer Science Core Classes**:
+  - `Computer Science I (Python)`
+  - `Data Structures (C++)`
+  - `Numerical Methods and Programming (Python w/ Numpy)`
+  - `Game Programming (Unity w/ C#)`
+  - `Foundation of Computer Science (Discrete Math)`
+  - `Computer Organization (C, MIPS)`
+  - `Intro to Algorithms`
+  - `Computer Vision (Python w/ OpenCV2 & PyTorch)`
+  - `Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)`
 
 
 <a href="https://www.nanzan-u.ac.jp/English/"><img align="right" src="/pics/nanzan.png" width="50" height="50"></a>
 <h3 style="margin: 0 0 2px;">Nanzan University</h3>
+<p style="margin: 0 0 2px;"><em><strong>Nagoya, Japan </strong></em></p>
 <!-- Nanzan University-->
 
-***Nagoya, Japan***\
-**Intensive Japanese Program, Center of Japanese Studies**\
-**Semester GPA**: *3.87/4.00*\
-**Program Date**: *Spring 2021*
+- **Intensive Japanese Program, Center of Japanese Studies**
+- **Semester GPA**: *3.87/4.00*
+- **Program Date**: *Spring 2021*
 
 
 ## Working Experience
