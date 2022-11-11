@@ -52,20 +52,20 @@ The project aims at developing a inverse kinematics algorithm with both geometri
 ---
 The project expands the project 2 from 2D space to 3D space. The S curve was projected onto a sphere surface, and a 3D inverse kinematics geometric method was implemented. The ABB IRB1200 robot was chosen as the model to track the curve on the surface. Though the inverse kinematics is already implement in the robotics toolbox, the project required to implement the whole method from scratch.
 
-<img src="https://raw.githubusercontent.com/yuxinrpi/Robotics-I-Class-Project/main/Proj-3/S_curve.jpg" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block;">
-<p style="margin: 0px;" align="middle">S curve on sphere</p>
+<img src="https://raw.githubusercontent.com/yuxinrpi/Robotics-I-Class-Project/main/Proj-3/S_curve.jpg" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block;  float: left;padding: 5px;">
 
-<img src="/project4/irb1200.gif" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block;">
-<p style="margin: 0px;" align="middle">IRB1200 tracking the curve</p>
+<img src="/project4/irb1200.gif" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block; float: left;padding: 5px;">
+
+<br>
 
 ## Project 4 - 3D Jacobian Inverse Kinematics
 ---
 Compared to Project 3, the project 4 implements the jacobian inverse kinematics method, and the effects of singularities are evaluated and discussed.
-<img src="https://raw.githubusercontent.com/yuxinrpi/Robotics-I-Class-Project/main/Proj-4/jacmotion.jpg" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block;">
-<p style="margin: 0px;" align="middle">Jacobian Inv-kinematics tracking</p>
+<img src="https://raw.githubusercontent.com/yuxinrpi/Robotics-I-Class-Project/main/Proj-4/jacmotion.jpg" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block;float: left;padding: 5px;">
 
-<img src="https://raw.githubusercontent.com/yuxinrpi/Robotics-I-Class-Project/main/Proj-4/singularvalue.jpg" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block;">
-<p style="margin: 0px;" align="middle">Singular Value of Robot - No singularities</p>
+<img src="https://raw.githubusercontent.com/yuxinrpi/Robotics-I-Class-Project/main/Proj-4/singularvalue.jpg" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block;float: left;padding: 5px;">
+<p style="margin: 0px;" align="middle">(Left) Jacobian Inv-kinematics tracking</p>
+<p style="margin: 0px;" align="middle">(Right) Singular Value of Robot - No singularities</p>
 
 ## Project 5 - Camera Calibration
 ---
@@ -93,14 +93,13 @@ The project applies PID tuning method for the Robot to track the S curve using S
 <div class="row">
   <div class="column">
     <img src="/project4/no_friction.gif" style="width:100%">
-    <p style="margin: 0px;">Camera's View of the S curve</p>
+    <p style="margin: 0px;">IRB1200 without friction at rest</p>
   </div>
   <div class="column">
     <img src="/project4/friction.gif" style="width:100%">
-    <p style="margin: 0px;">2D Reprojection After Calibration</p>
+    <p style="margin: 0px;">IRB1200 with friction at rest</p>
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/yuxinrpi/Robotics-I-Class-Project/main/Proj-5/reprojection.png" style="width:100%">
-    <p style="margin: 0px;">3D Reprojection After Calibration</p>
+    <p style="margin: 20px; width:100%;border-radius: 20px;border-color: #ccc;border-width: 5px;border-style: solid;" align="middle"><em> (Sorry the video of PID tuning was lost for unknown reason. But you can regenerate one using the code in my github folder at any time.) </em></p>
   </div>
 </div>
