@@ -14,7 +14,7 @@ The duckiebot is a 2 wheel differential robot controlled by Raspberry Pi. The wh
 <img src="/project3/duckie.png" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block;">
 
 To achieve the auto-parking goal, the system was divided into two halves, where Yuxin was in charge of the Computer Vision processing.
-<img src="/project3/structure.png" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block;">
+<img src="/project3/structure.png" style="width:70%;align-items: center;margin-left: auto;margin-right: auto;display: block;">
 
 The image was captured by the camera located on the duckiebot, and then it was transferred to the remote computer for further processing. The main goal is to locate the parking box, and find the relative distance and angle using perspective-to-perspective algorithms.
 <img src="/project3/CV.png" style="width:100%">
