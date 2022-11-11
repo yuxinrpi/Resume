@@ -1,4 +1,6 @@
+<style>
 .content {margin-bottom: 0;}
+</style>
 # Resume
 <!-- ### You can also [download as PDF](/files/Resume.pdf)! -->
 ## Intro
