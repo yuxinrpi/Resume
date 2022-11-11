@@ -15,7 +15,12 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 **MEng** *Mechanical Engineering*\
 **Concentration**: *Product Design*\
 **Expected graduation**: *June 2023*\
-**Core Classes**: Food Science, Machine Learning (Python w/ TensorFlow)
+**Core Classes**:\
+> Food Science\
+> Machine Learning (Python w/ TensorFlow)\
+> Product Developement (Tentative)\
+> Vehicle Dynamics & Control (Tentative)\
+> Design of Microprocessor (Tentative)\
 
 <a href="https://www.rpi.edu"><img align="right" src="/pics/rpi.jfif" width="50" height="50"></a>
 <h3 style="margin: 0 0 2px;">Rensselaer Polytechnic Institute</h3>
@@ -25,7 +30,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 **Minor**:  *Computer Science*\
 **GPA**: *3.78/4.00*\
 **Graduation**: *May 2022*\
-**Mechanical Core Classes**:\
+**Mechanical Core Classes**:
 > Engineering Graphics & CAD\
 > Engineering Analysis\
 > Material Science\
@@ -42,7 +47,8 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 > Thermal & Fluid Lab\
 > Robotics\
 > Control System Lab\
-> Intro to Finite Elements\
+> Intro to Finite Elements
+
 **Computer Science Core Classes**:\
 > Computer Science I (Python)\
 > Data Structures (C++)\
@@ -50,9 +56,9 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 > Game Programming (Unity w/ C#)\
 > Foundation of Computer Science (Discrete Math)\
 > Computer Organization (C, MIPS)\
-> Algorithms\
+> Intro to Algorithms\
 > Computer Vision (Python w/ OpenCV2 & PyTorch)\
-> Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)\
+> Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)
 
 
 <a href="https://www.nanzan-u.ac.jp/English/"><img align="right" src="/pics/nanzan.png" width="50" height="50"></a>
