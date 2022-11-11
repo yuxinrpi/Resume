@@ -25,12 +25,14 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <a href="https://www.rpi.edu"><img align="right" src="/pics/rpi.jfif" width="50" height="50"></a>
 <h3 style="margin: 0 0 2px;">Rensselaer Polytechnic Institute</h3>
 <!-- ### Rensselaer Polytechnic Institute-->
+<div style="margin: 0 0 0px;">
 ***Troy, NY, US***\
 **BS** *Mechanical Engineering*\
 **Minor**:  *Computer Science*\
 **GPA**: *3.78/4.00*\
 **Graduation**: *May 2022*\
 **Mechanical Core Classes**:
+</div>
 > Engineering Graphics & CAD\
 > Engineering Analysis\
 > Material Science\
@@ -49,7 +51,9 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 > Control System Lab\
 > Intro to Finite Elements
 
+<div style="margin: 0 0 0px;">
 **Computer Science Core Classes**:\
+</div>
 > Computer Science I (Python)\
 > Data Structures (C++)\
 > Numerical Methods and Programming (Python w/ Numpy)\
