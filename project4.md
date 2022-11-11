@@ -47,6 +47,7 @@ The project aims at developing a inverse kinematics algorithm with both geometri
   </div>
 </div>
 
+<br>
 
 ## Project 3 - Projection & 3D Geometric Inverse Kinematics
 ---
@@ -59,6 +60,8 @@ The project expands the project 2 from 2D space to 3D space. The S curve was pro
 <p style="margin: 0px;" align="middle">(Left) The S curve project on sphere</p>
 <p style="margin: 0px;" align="middle">(Right) IRB1200 tracking the curve</p>
 
+<br>
+
 ## Project 4 - 3D Jacobian Inverse Kinematics
 ---
 Compared to Project 3, the project 4 implements the jacobian inverse kinematics method, and the effects of singularities are evaluated and discussed.
@@ -67,6 +70,8 @@ Compared to Project 3, the project 4 implements the jacobian inverse kinematics 
 <img src="https://raw.githubusercontent.com/yuxinrpi/Robotics-I-Class-Project/main/Proj-4/singularvalue.jpg" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block;float: left;padding: 5px;">
 <p style="margin: 0px;" align="middle">(Left) Jacobian Inv-kinematics tracking</p>
 <p style="margin: 0px;" align="middle">(Right) Singular Value of Robot - No singularities</p>
+
+<br>
 
 ## Project 5 - Camera Calibration
 ---
@@ -86,6 +91,8 @@ The projects implemented a virtual camera using mathematical projections. And a 
     <p style="margin: 0px;">3D Reprojection After Calibration</p>
   </div>
 </div>
+
+<br>
 
 ## Project 6 - PID Tuning & Gravity Compensation
 ---
