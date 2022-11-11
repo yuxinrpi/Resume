@@ -11,6 +11,9 @@ code {
 <!-- ### You can also [download as PDF](/files/Resume.pdf)! -->
 ## Intro
 ---
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="yuxin-hu-rpi" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/yuxin-hu-rpi?trk=profile-badge"></a>
+</div>
 *(This site is under construction now, check back later!)*\
 I am a Master student at UC Berkeley, starting *Fall 2022*.\
 I am actively looking for a full-time job as a Mechanical Engineer / Product Manager starting *Summer 2023*.\
