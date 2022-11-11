@@ -60,6 +60,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
   - `Mechanical System Lab`
   - `Thermal & Fluid Lab`
   - `Control System Lab`
+
   
 **Computer Science Core Classes**:
   - `Computer Science I (Python)`
