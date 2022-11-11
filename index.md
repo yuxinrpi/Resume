@@ -151,7 +151,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <h3 style="margin: 0 0 2px;">University of California, Berkeley</h3>
 <p style="margin: 0 0 2px;"><em><strong>Berkeley, CA, US </strong></em></p>
 
-*Machine Learning Algorithms for Nuclear Fusion Magnet Material Science*
+*Machine Learning Algorithms for Nuclear Fusion Magnet Material Science*\
 **Main Contributions:**
 - In progress
 
