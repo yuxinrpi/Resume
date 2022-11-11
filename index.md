@@ -14,7 +14,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 ***Berkeley, CA, US***\
 **MEng** *Mechanical Engineering*\
 **Concentration**: *Product Design*\
-**Expected graduation**: *June 2023*
+**Expected graduation**: *June 2023*\
 **Core Classes**: Food Science, Machine Learning (Python w/ TensorFlow)
 
 <a href="https://www.rpi.edu"><img align="right" src="/pics/rpi.jfif" width="50" height="50"></a>
@@ -25,34 +25,34 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 **Minor**:  *Computer Science*\
 **GPA**: *3.78/4.00*\
 **Graduation**: *May 2022*\
-> **Mechanical Core Classes**:\
->> Engineering Graphics & CAD\
->> Engineering Analysis\
->> Material Science\
->> Strength of Materials\
->> Dynamics\
->> Engineering Design\
->> Fluid Mechanics\
->> Thermal Dynamics\
->> Elements of Mechanical Design\
->> Modeling and Control of Dynamic System\
->> Electronic Instrumentation\
->> Heat Transfer\
->> Mechanical System Lab\
->> Thermal & Fluid Lab\
->> Robotics\
->> Control System Lab\
->> Intro to Finite Elements\
->**Computer Science Core Classes**:\
->> Computer Science I (Python)\
->> Data Structures (C++)\
->> Numerical Methods and Programming (Python w/ Numpy)\
->> Game Programming (Unity w/ C#)\
->> Foundation of Computer Science (Discrete Math)\
->> Computer Organization (C, MIPS)\
->> Algorithms\
->> Computer Vision (Python w/ OpenCV2 & PyTorch)\
->> Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)\
+**Mechanical Core Classes**:\
+> Engineering Graphics & CAD\
+> Engineering Analysis\
+> Material Science\
+> Strength of Materials\
+> Dynamics\
+> Engineering Design\
+> Fluid Mechanics\
+> Thermal Dynamics\
+> Elements of Mechanical Design\
+> Modeling and Control of Dynamic System\
+> Electronic Instrumentation\
+> Heat Transfer\
+> Mechanical System Lab\
+> Thermal & Fluid Lab\
+> Robotics\
+> Control System Lab\
+> Intro to Finite Elements\
+**Computer Science Core Classes**:\
+> Computer Science I (Python)\
+> Data Structures (C++)\
+> Numerical Methods and Programming (Python w/ Numpy)\
+> Game Programming (Unity w/ C#)\
+> Foundation of Computer Science (Discrete Math)\
+> Computer Organization (C, MIPS)\
+> Algorithms\
+> Computer Vision (Python w/ OpenCV2 & PyTorch)\
+> Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)\
 
 
 <a href="https://www.nanzan-u.ac.jp/English/"><img align="right" src="/pics/nanzan.png" width="50" height="50"></a>
