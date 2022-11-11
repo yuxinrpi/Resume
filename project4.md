@@ -30,7 +30,7 @@ The project aims at developing a program that finds a path for the robot to reac
 
 ## Project 2 - 2D Inverse Kinematics
 ---
-The project aims at developing a inverse kinematics algorithm with both geometric and jacobian control method for a 2D n-link robot to track a curve.
+The project aims at developing a inverse kinematics algorithm with both geometric and jacobian control method for a 2D n-link robot to track a curve. Though the inverse kinematics is already implement in the robotics toolbox, the project required to implement the whole methods from scratch.
 
 <div class="row">
   <div class="column">
@@ -50,19 +50,10 @@ The project aims at developing a inverse kinematics algorithm with both geometri
 
 ## Project 3 - Projection & 3D Inverse Kinematics
 ---
-The project expands the project 2 from 2D space to 3D space. The S curve was projected onto a sphere surface, and a 3D inverse kinematics method was implement. The ABB IRB1200 robot was chosen as the model to track the curve on the surface.
-<div class="row">
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/yuxinrpi/Robotics-I-Class-Project/main/Proj-3/S_curve.jpg" style="width:100%">
-    <p style="margin: 0px;">S curve on sphere</p>
-  </div>
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/yuxinrpi/Robotics-I-Class-Project/main/Proj-3/irb1200.jpg" style="width:100%">
-    <p style="margin: 0px;">IRB1200 planned path</p>
-  </div>
-  <div class="column">
-    <img src="/project4/irb1200.gif" style="width:100%">
-    <p style="margin: 0px;">IRB1200 tracking the curve</p>
-  </div>
-</div>
-https://raw.githubusercontent.com/yuxinrpi/Robotics-I-Class-Project/main/Proj-3/irb1200.jpg
+The project expands the project 2 from 2D space to 3D space. The S curve was projected onto a sphere surface, and a 3D inverse kinematics geometric method was implemented. The ABB IRB1200 robot was chosen as the model to track the curve on the surface. Though the inverse kinematics is already implement in the robotics toolbox, the project required to implement the whole method from scratch.
+
+<img src="https://raw.githubusercontent.com/yuxinrpi/Robotics-I-Class-Project/main/Proj-3/S_curve.jpg" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block;">
+<p style="margin: 0px;" align="middle">S curve on sphere</p>
+
+<img src="/project4/irb1200.gif" style="width:50%;align-items: center;margin-left: auto;margin-right: auto;display: block;">
+<p style="margin: 0px;" align="middle">IRB1200 tracking the curve</p>
