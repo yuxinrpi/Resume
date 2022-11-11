@@ -1,5 +1,6 @@
 <style>
 ul {margin:0 0 0px;}
+p {margin:0 0 0px;}
 code {
     padding: 3px;
     font-size: 12px;
@@ -20,15 +21,15 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <h3 style="margin: 0 0 2px;">University of California, Berkeley</h3>
 <p style="margin: 0 0 2px;"><em><strong>Berkeley, CA, US </strong></em></p>
 
-- **MEng** *Mechanical Engineering*
-- **Concentration**: *Product Design*
-- **Expected graduation**: *June 2023*
-- **Core Classes**:
-    - `Food Science`
-    - `Machine Learning (Python w/ TensorFlow)`
-    - `Product Developement (Tentative)`
-    - `Vehicle Dynamics & Control (Tentative)`
-    - `Design of Microprocessor (Tentative)`
+**MEng** *Mechanical Engineering*
+**Concentration**: *Product Design*
+**Expected graduation**: *June 2023*
+**Core Classes**:
+  - `Food Science`
+  - `Machine Learning (Python w/ TensorFlow)`
+  - `Product Developement (Tentative)`
+  - `Vehicle Dynamics & Control (Tentative)`
+  - `Design of Microprocessor (Tentative)`
 
 <br>
 
@@ -37,38 +38,38 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <p style="margin: 0 0 2px;"><em><strong>Troy, NY, US </strong></em></p>
 <!-- ### Rensselaer Polytechnic Institute-->
 
--  **BS** *Mechanical Engineering*
--  **Minor**:  *Computer Science*
--  **GPA**: *3.78/4.00*
--  **Graduation**: *May 2022*
--  **Mechanical Core Classes**:
-    - `Engineering Graphics & CAD`
-    - `Engineering Analysis`
-    - `Engineering Dynamics`
-    - `Engineering Design`
-    - `Material Science`
-    - `Strength of Materials`
-    - `Fluid Mechanics`
-    - `Thermal Dynamics`
-    - `Heat Transfer`
-    - `Elements of Mechanical Design`
-    - `Modeling and Control of Dynamic System`
-    - `Electronic Instrumentation`
-    - `Intro to Finite Elements`
-    - `Robotics`
-    - `Mechanical System Lab`
-    - `Thermal & Fluid Lab`
-    - `Control System Lab`
-- **Computer Science Core Classes**:
-    - `Computer Science I (Python)`
-    - `Data Structures (C++)`
-    - `Foundation of Computer Science (Discrete Math)`
-    - `Numerical Methods and Programming (Python w/ Numpy)`
-    - `Game Programming (Unity w/ C#)`
-    - `Computer Organization (C, MIPS)`
-    - `Intro to Algorithms`
-    - `Computer Vision (Python w/ OpenCV2 & PyTorch)`
-    - `Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)`
+**BS** *Mechanical Engineering*
+**Minor**:  *Computer Science*
+**GPA**: *3.78/4.00*
+**Graduation**: *May 2022*
+**Mechanical Core Classes**:
+  - `Engineering Graphics & CAD`
+  - `Engineering Analysis`
+  - `Engineering Dynamics`
+  - `Engineering Design`
+  - `Material Science`
+  - `Strength of Materials`
+  - `Fluid Mechanics`
+  - `Thermal Dynamics`
+  - `Heat Transfer`
+  - `Elements of Mechanical Design`
+  - `Modeling and Control of Dynamic System`
+  - `Electronic Instrumentation`
+  - `Intro to Finite Elements`
+  - `Robotics`
+  - `Mechanical System Lab`
+  - `Thermal & Fluid Lab`
+  - `Control System Lab`
+**Computer Science Core Classes**:
+  - `Computer Science I (Python)`
+  - `Data Structures (C++)`
+  - `Foundation of Computer Science (Discrete Math)`
+  - `Numerical Methods and Programming (Python w/ Numpy)`
+  - `Game Programming (Unity w/ C#)`
+  - `Computer Organization (C, MIPS)`
+  - `Intro to Algorithms`
+  - `Computer Vision (Python w/ OpenCV2 & PyTorch)`
+  - `Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)`
 
 <br>
 
@@ -77,9 +78,9 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <p style="margin: 0 0 2px;"><em><strong>Nagoya, Japan </strong></em></p>
 <!-- Nanzan University-->
 
-- **Intensive Japanese Program, Center of Japanese Studies**
-- **Semester GPA**: *3.87/4.00*
-- **Program Date**: *Spring 2021*
+**Intensive Japanese Program, Center of Japanese Studies**
+**Semester GPA**: *3.87/4.00*
+**Program Date**: *Spring 2021*
 
 <br>
 
