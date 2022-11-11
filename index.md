@@ -85,7 +85,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 
 **Intensive Japanese Program, Center of Japanese Studies**\
 **Semester GPA**: *3.87/4.00* \
-**Program Date**: *Spring 2021*
+**Program Date**: *Spring 2021*\
 **Classes**:
   - `Japanese I`
   - `Japanese Popular Culture`
@@ -102,8 +102,8 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <!-- GE Healthcare Shanghai Co., Ltd.-->
 
 ***Shanghai, China***\
-*Jul 2021 - Aug 2021*
-**Main Contributions:**\
+*Jul 2021 - Aug 2021*\
+**Main Contributions:**
 - Production Line Improvement
   - Implemented automatic configuration setting on packaging machinery for different material flow and bottle specifications
   - Set up automatic shutdown in case unsolvable error occurs by Industrial PLC programming
@@ -125,8 +125,8 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <!-- Shanghai Aircraft Customer Service Co., Ltd.-->
 
 ***Shanghai, China***\
-*May 2021 - Jun 2021*
-**Main Contributions:**\
+*May 2021 - Jun 2021*\
+**Main Contributions:**
 - Supported designing and developing the thru flight check and maintenance IoT devices; Collected the aircraft damage samples and images for the future research with machine learning models
 - Developed independently a useful tool with Python that helps estimate the flight cost of various aircrafts, with features such as cost comparison among different aircrafts, load planning and visualization
 - Assisted in the establishment of the IoT device lab and Cloud computing center, and proposed an equipment list based on the R&D strategy of the company
@@ -138,19 +138,23 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <!-- Yaskawa Shougang Robot Co.,Ltd.-->
 
 ***Shanghai, China***\
-*May 2019 - Jun 2019*
-**Main Contributions:**\
+*May 2019 - Jun 2019*\
+**Main Contributions:**
 - Learned the hardware and software mechanism of industrial robot arms control, including PLC, robot teaching, etc
 - Supported professional engineers to build an automobile chassis welding assembly line, using Yaskawa robot arms
 
 <br>
 
 ## Research experience
+---
 <a href="https://www.berkeley.edu"><img align="right" src="/pics/berkeley.jfif" width="50" height="50" style="vertical-align: text-bottom;"></a>
 <h3 style="margin: 0 0 2px;">University of California, Berkeley</h3>
 <p style="margin: 0 0 2px;"><em><strong>Berkeley, CA, US </strong></em></p>
 
 *Machine Learning Algorithms for Nuclear Fusion Magnet Material Science*
+**Main Contributions:**
+- In progress
+
 
 <br>
 <a href="https://www.rpi.edu"><img align="right" src="/pics/rpi.jfif" width="50" height="50"></a>
@@ -158,7 +162,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <p style="margin: 0 0 2px;"><em><strong>Troy, NY, US </strong></em></p>
 
 *Innovation in Selective Laser Sintering Method for Bismuth Telluride*
-**Main Contributions:**\
+**Main Contributions:**
 - Examined and analyzed laser-sintering-prepared Bi2T e3 samples’ mechanical and electrical properties
 - Engineered a new device layout that could significantly optimize the printing quality and enhance the electrical properties
 - Conceptualized the future potential in 3D printing semi-conductor devices
