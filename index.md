@@ -117,8 +117,10 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 ***Shanghai, China***\
 *May 2019 - Jun 2019*
 
-## Connect With Me!
+<br>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="yuxin-hu-rpi" data-version="v1">
+## Connect With Me!
+---
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="yuxin-hu-rpi" data-version="v1" align="middle">
   <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/yuxin-hu-rpi?trk=profile-badge"></a>
 </div>
