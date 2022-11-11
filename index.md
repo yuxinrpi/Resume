@@ -30,7 +30,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 **Minor**:  *Computer Science*\
 **GPA**: *3.78/4.00*\
 **Graduation**: *May 2022*\
-**Mechanical Core Classes**:
+<p style="margin: 0 0 0px;">**Mechanical Core Classes**:</p>
 > Engineering Graphics & CAD\
 > Engineering Analysis\
 > Material Science\
