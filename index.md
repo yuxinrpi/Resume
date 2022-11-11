@@ -11,7 +11,7 @@ code {
 <!-- ### You can also [download as PDF](/files/Resume.pdf)! -->
 ## Intro
 ---
-*(This site is under construction now, check back later!)*
+*(This site is under construction now, check back later!)*\
 I am a Master student at UC Berkeley, starting *Fall 2022*.\
 I am actively looking for a full-time job as a Mechanical Engineer / Product Manager starting *Summer 2023*.\
 Please feel free to contact me if you are interested via <a href="mailto:yuxinhu@berkeley.edu">Email</a>!
@@ -21,9 +21,9 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <h3 style="margin: 0 0 2px;">University of California, Berkeley</h3>
 <p style="margin: 0 0 2px;"><em><strong>Berkeley, CA, US </strong></em></p>
 
-**MEng** *Mechanical Engineering*
-**Concentration**: *Product Design*
-**Expected graduation**: *June 2023*
+**MEng** *Mechanical Engineering*\
+**Concentration**: *Product Design*\
+**Expected graduation**: *June 2023*\
 **Core Classes**:
   - `Food Science`
   - `Machine Learning (Python w/ TensorFlow)`
@@ -38,10 +38,10 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <p style="margin: 0 0 2px;"><em><strong>Troy, NY, US </strong></em></p>
 <!-- ### Rensselaer Polytechnic Institute-->
 
-**BS** *Mechanical Engineering*
-**Minor**:  *Computer Science*
-**GPA**: *3.78/4.00*
-**Graduation**: *May 2022*
+**BS** *Mechanical Engineering*\
+**Minor**:  *Computer Science*\
+**GPA**: *3.78/4.00*\
+**Graduation**: *May 2022*\
 **Mechanical Core Classes**:
   - `Engineering Graphics & CAD`
   - `Engineering Analysis`
@@ -78,8 +78,8 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <p style="margin: 0 0 2px;"><em><strong>Nagoya, Japan </strong></em></p>
 <!-- Nanzan University-->
 
-**Intensive Japanese Program, Center of Japanese Studies**
-**Semester GPA**: *3.87/4.00*
+**Intensive Japanese Program, Center of Japanese Studies**\
+**Semester GPA**: *3.87/4.00*\
 **Program Date**: *Spring 2021*
 
 <br>
