@@ -57,6 +57,7 @@ The algae stays in the device, and the water is pushed out. When the device is f
 <img src="/project2/crosssection.png" style="width:80%">
 <img src="/project2/explosion.png" style="width:100%">
 <img src="/project2/fin.png" style="width:100%">
+<img src="/project2/FEA.png" style="width:100%">
 
 ## Prototype
 ---

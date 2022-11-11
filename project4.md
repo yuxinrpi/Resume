@@ -2,7 +2,7 @@
 ## Intro
 ---
 This page collects the demo of Robotics I class mini projects. You can also view the project at [My GitHub Page](https://github.com/yuxinrpi/Robotics-I-Class-Project)\
-All class mini projects are done by me alone.
+All class mini projects are done by me alone. All codes were written in Matlab with Robotics Toolbox, but most of the algorithms are implemented manually.
 
 <style>
 * {
