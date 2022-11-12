@@ -167,7 +167,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
         <li>Foundation of Computer Science (Discrete Math)</li>
         <li>Numerical Methods and Programming (Python w/ Numpy)</li>
         <li><a href="https://www.yuxinhu.ga/project7.html"><p style="color: blue; margin-bottom:0px">Game Programming (Unity w/ C#)</p></a></li>
-        <li>Computer Organization (C, MIPS)</li>
+        <li><a href="https://www.yuxinhu.ga/project8.html"><p style="color: blue; margin-bottom:0px">Computer Organization (C, MIPS)</p></a></li>
         <li>Intro to Algorithms</li>
         <li>Computer Vision (Python w/ OpenCV2 & PyTorch)</li>
         <li><a href="https://www.yuxinhu.ga/project5.html"><p style="color: blue; margin-bottom:0px">Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)</p></a></li>
