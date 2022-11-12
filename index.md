@@ -116,7 +116,6 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
   </div>
 </div>
 
-
 <br>
 
 <a href="https://www.rpi.edu"><img align="right" src="/pics/rpi.jfif" width="50" height="50"></a>
@@ -187,10 +186,20 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 **Semester GPA**: *3.87/4.00* \
 **Program Date**: *Spring 2021*\
 **Classes**:
-  - `Japanese I`
-  - `Japanese Popular Culture`
-  - `Topics in Japanese Linguistics`
-  - `Writing for Communication`
+<div class="wrap-collabsible">
+  <input id="collapsible4" class="toggle" type="checkbox">
+  <label for="collapsible4" class="lbl-toggle">Click to Expand</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <ul>
+        <li>Japanese I</li>
+        <li>Japanese Popular Culture</li>
+        <li>Topics in Japanese Linguistics</li>
+        <li>Writing for Communication</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 <br>
 
@@ -204,19 +213,37 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 ***Shanghai, China***\
 *Jul 2021 - Aug 2021*\
 **Main Contributions:**
-- ***Production Line Improvement***
-  - Implemented automatic configuration setting on packaging machinery for different material flow and bottle specifications
-  - Set up automatic shutdown in case unsolvable error occurs by Industrial PLC programming
-  - Drew the Line C electrical wiring diagram to help maintenance personnel locate errors more rapidly and accurately
-  - Developed a power usage monitoring system including system hardware and software design, assembly, and onsite testing that helps eliminate the risks of massive scrapping due to contingent system malfunctioning
-- ***Information System Development***
-  - Designed a Python scraper that can automatically capture the data from the company’s production system, output it to the management system, and realize visualization through data cleaning and interpretation
-  - Participated in the bidding of three suppliers and evaluated their qualification through field visits
-- ***Evaluation of Suppliers’ Schemes***
-  - Analyzed the user requirement specification and investigated the efficiency of the existing production line
-  - Participated in the bidding of three suppliers and evaluated their qualification through field visits
-  - Analyzed quantitatively the transformation schemes of Line D provided by three suppliers, and gave feedback from the perspectives of quotation, materials, design rationality, benefit, flexibility, and expected cost cut down, etc.
-
+<div class="wrap-collabsible">
+  <input id="collapsible5" class="toggle" type="checkbox">
+  <label for="collapsible5" class="lbl-toggle">Click to Expand</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+    <ul>
+      <li><strong><em>Production Line Improvement</em></strong>
+        <ul>
+          <li>Implemented automatic configuration setting on packaging machinery for different material flow and bottle specifications</li>
+          <li>Set up automatic shutdown in case unsolvable error occurs by Industrial PLC programming</li>
+          <li>Drew the Line C electrical wiring diagram to help maintenance personnel locate errors more rapidly and accurately</li>
+          <li>Developed a power usage monitoring system including system hardware and software design, assembly, and onsite testing that helps eliminate the risks of massive scrapping due to contingent system malfunctioning</li>
+        </ul>
+      </li>
+      <li><strong><em>Information System Development</em></strong>
+        <ul>
+          <li>Designed a Python scraper that can automatically capture the data from the company’s production system, output it to the management system, and realize visualization through data cleaning and interpretation</li>
+          <li>Participated in the bidding of three suppliers and evaluated their qualification through field visits</li>
+        </ul>
+      </li>
+      <li><strong><em>Evaluation of Suppliers’ Schemes</em></strong>
+        <ul>
+          <li>Analyzed the user requirement specification and investigated the efficiency of the existing production line</li>
+          <li>Participated in the bidding of three suppliers and evaluated their qualification through field visits</li>
+          <li>Analyzed quantitatively the transformation schemes of Line D provided by three suppliers, and gave feedback from the perspectives of quotation, materials, design rationality, benefit, flexibility, and expected cost cut down, etc.</li>
+        </ul>
+      </li>
+    </ul>
+    </div>
+  </div>
+</div>
 
 <br>
 
