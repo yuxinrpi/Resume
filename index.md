@@ -7,6 +7,82 @@ code {
     background-color: #eee;
     border-radius: 4px;}
 </style>
+<style>
+.wrap-collabsible {
+  margin-bottom: 1.2rem 0;
+}
+
+input[type='checkbox'] {
+  display: none;
+}
+
+.lbl-toggle {
+  display: block;
+
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  text-align: center;
+
+  padding: 0.5rem;
+
+  background: #267CB9;
+  color: #fff;
+
+  cursor: pointer;
+
+  border-radius: 5px;
+  transition: all 0.25s ease-out;
+
+}
+
+.lbl-toggle:hover {
+  color: #ccc;
+}
+
+.lbl-toggle::before {
+  content: ' ';
+  display: inline-block;
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
+
+  transition: transform .2s ease-out;
+}
+
+.toggle:checked + .lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px);
+}
+
+.collapsible-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .25s ease-in-out;
+}
+
+.toggle:checked + .lbl-toggle + .collapsible-content {
+  max-height: 100vh;
+}
+
+.toggle:checked + .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.collapsible-content .content-inner {
+  background: rgba(60, 60, 60, .2);
+  border-bottom: 1px solid rgba(60, 60, 60, .45);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
+}
+</style>
+
 # Resume
 <!-- ### You can also [download as PDF](/files/Resume.pdf)! -->
 ## Intro
@@ -28,11 +104,23 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 **Concentration**: *Product Design*\
 **Expected graduation**: *June 2023*\
 **Core Classes**:
-  - `Food Science`
-  - `Machine Learning (Python w/ TensorFlow)`
-  - `Product Developement (Tentative)`
-  - `Vehicle Dynamics & Control (Tentative)`
-  - `Design of Microprocessor (Tentative)`
+<div class="wrap-collabsible">
+  <input id="collapsible3" class="toggle" type="checkbox">
+  <label for="collapsible3" class="lbl-toggle">Click to Expand</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <ul>
+        <li><code>Food Science</code></li>
+        <li><code>Machine Learning (Python w/ TensorFlow)</code></li>
+        <li><code>Product Developement (Tentative)</code></li>
+        <li><code>Vehicle Dynamics & Control (Tentative)</code></li>
+        <li><code>Design of Microprocessor (Tentative)</code></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<p style="margin-bottom: 5px;"></p>
+
 
 <br>
 
@@ -105,15 +193,15 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 ***Shanghai, China***\
 *Jul 2021 - Aug 2021*\
 **Main Contributions:**
-- Production Line Improvement
+- ***Production Line Improvement***
   - Implemented automatic configuration setting on packaging machinery for different material flow and bottle specifications
   - Set up automatic shutdown in case unsolvable error occurs by Industrial PLC programming
   - Drew the Line C electrical wiring diagram to help maintenance personnel locate errors more rapidly and accurately
   - Developed a power usage monitoring system including system hardware and software design, assembly, and onsite testing that helps eliminate the risks of massive scrapping due to contingent system malfunctioning
-- Information System Development
+- ***Information System Development***
   - Designed a Python scraper that can automatically capture the data from the company’s production system, output it to the management system, and realize visualization through data cleaning and interpretation
   - Participated in the bidding of three suppliers and evaluated their qualification through field visits
-- Evaluation of Suppliers’ Schemes
+- ***Evaluation of Suppliers’ Schemes***
   - Analyzed the user requirement specification and investigated the efficiency of the existing production line
   - Participated in the bidding of three suppliers and evaluated their qualification through field visits
   - Analyzed quantitatively the transformation schemes of Line D provided by three suppliers, and gave feedback from the perspectives of quotation, materials, design rationality, benefit, flexibility, and expected cost cut down, etc.
