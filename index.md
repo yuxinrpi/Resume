@@ -254,9 +254,19 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 ***Shanghai, China***\
 *May 2021 - Jun 2021*\
 **Main Contributions:**
-- Supported designing and developing the thru flight check and maintenance IoT devices; Collected the aircraft damage samples and images for the future research with machine learning models
-- Developed independently a useful tool with Python that helps estimate the flight cost of various aircrafts, with features such as cost comparison among different aircrafts, load planning and visualization
-- Assisted in the establishment of the IoT device lab and Cloud computing center, and proposed an equipment list based on the R&D strategy of the company
+<div class="wrap-collabsible">
+  <input id="collapsible6" class="toggle" type="checkbox">
+  <label for="collapsible6" class="lbl-toggle">Click to Expand</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+    <ul>
+      <li>Supported designing and developing the thru flight check and maintenance IoT devices; Collected the aircraft damage samples and images for the future research with machine learning models</li>
+      <li>Developed independently a useful tool with Python that helps estimate the flight cost of various aircrafts, with features such as cost comparison among different aircrafts, load planning and visualization</li>
+      <li>Assisted in the establishment of the IoT device lab and Cloud computing center, and proposed an equipment list based on the R&amp;D strategy of the company</li>
+    </ul>
+    </div>
+  </div>
+</div>
 
 <br>
 
@@ -267,8 +277,19 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 ***Shanghai, China***\
 *May 2019 - Jun 2019*\
 **Main Contributions:**
-- Learned the hardware and software mechanism of industrial robot arms control, including PLC, robot teaching, etc
-- Supported professional engineers to build an automobile chassis welding assembly line, using Yaskawa robot arms
+<div class="wrap-collabsible">
+  <input id="collapsible7" class="toggle" type="checkbox">
+  <label for="collapsible7" class="lbl-toggle">Click to Expand</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+    <ul>
+      <li>Learned the hardware and software mechanism of industrial robot arms control, including PLC, robot teaching, etc</li>
+      <li>Supported professional engineers to build an automobile chassis welding assembly line, using Yaskawa robot arms</li>
+    </ul>
+    </div>
+  </div>
+</div>
+
 
 <br>
 
@@ -290,9 +311,19 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 
 *Innovation in Selective Laser Sintering Method for Bismuth Telluride*\
 **Main Contributions:**
-- Examined and analyzed laser-sintering-prepared Bi2T e3 samples’ mechanical and electrical properties
-- Engineered a new device layout that could significantly optimize the printing quality and enhance the electrical properties
-- Conceptualized the future potential in 3D printing semi-conductor devices
+<div class="wrap-collabsible">
+  <input id="collapsible8" class="toggle" type="checkbox">
+  <label for="collapsible8" class="lbl-toggle">Click to Expand</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+    <ul>
+      <li>Examined and analyzed laser-sintering-prepared Bi2Te3 samples’ mechanical and electrical properties</li>
+      <li>Engineered a new device layout that could significantly optimize the printing quality and enhance the electrical properties</li>
+      <li>Conceptualized the future potential in 3D printing semi-conductor devices</li>
+    </ul>
+    </div>
+  </div>
+</div>
 
 ## Connect With Me!
 ---
