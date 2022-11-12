@@ -49,7 +49,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
   - `Engineering Graphics & CAD`
   - `Engineering Analysis (Static Structure Analysis)`
   - `Engineering Dynamics`
-  - [<span style="color: blue;">`Engineering Design`</span>](https://www.yuxinhu.ga/project5.html)
+  - [`<span style="color: blue;">Engineering Design</span>`](https://www.yuxinhu.ga/project5.html)
   - `Material Science`
   - `Strength of Materials (Static Structure Analysis)`
   - `Fluid Mechanics`
@@ -59,8 +59,8 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
   - `Modeling and Control of Dynamic System (PID control)`
   - `Electronic Instrumentation`
   - `Intro to Finite Elements`
-  - [`Robotics`](https://www.yuxinhu.ga/project3.html)
-  - [`Inventor Studio II`](https://www.yuxinhu.ga/project3.html)
+  - [`<span style="color: blue;">Robotics</span>`](https://www.yuxinhu.ga/project3.html)
+  - [`<span style="color: blue;">Inventor Studio II</span>`](https://www.yuxinhu.ga/project3.html)
   - `Mechanical System Lab`
   - `Thermal & Fluid Lab`
   - `Control System Lab`
@@ -71,11 +71,11 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
   - `Data Structures (C++)`
   - `Foundation of Computer Science (Discrete Math)`
   - `Numerical Methods and Programming (Python w/ Numpy)`
-  - [`Game Programming (Unity w/ C#)`](https://www.yuxinhu.ga/project7.html)
+  - [`<span style="color: blue;">Game Programming (Unity w/ C#)</span>`](https://www.yuxinhu.ga/project7.html)
   - `Computer Organization (C, MIPS)`
   - `Intro to Algorithms`
   - `Computer Vision (Python w/ OpenCV2 & PyTorch)`
-  - [`Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)`](https://www.yuxinhu.ga/project4.html)
+  - [`<span style="color: blue;">Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)</span>`](https://www.yuxinhu.ga/project4.html)
 
 <br>
 
