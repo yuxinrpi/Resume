@@ -75,7 +75,7 @@ input[type='checkbox'] {
   border-bottom: #fff;
   border-bottom-left-radius: 7px;
   border-bottom-right-radius: 7px;
-  padding: 0rem 1rem;
+  padding: 0.5rem 0rem;
 }
 </style>
 
@@ -84,8 +84,10 @@ input[type='checkbox'] {
 ## Intro
 ---
 *(This site is under construction now, check back later!)*\
-I am a Master student at UC Berkeley, starting *Fall 2022*.\
-I am actively looking for a full-time job as a Mechanical Engineer / Product Manager starting *Summer 2023*.\
+Hi there!\
+I am a Master student at UC Berkeley, and am expected to graduate by June 2023.
+I built this website as my portfolio, which allows more visual / interactive media to be presented. Please feel free to browse through the pages, and discover my projects!\
+I am actively looking for a full-time job as a Mechanical Engineer / Product Manager starting *Summer 2023*.
 Please feel free to contact me if you are interested via <a href="mailto:yuxinhu@berkeley.edu">Email</a>!
 
 <br>
