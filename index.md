@@ -305,11 +305,13 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 
 
 <br>
+
 <a href="https://www.rpi.edu"><img align="right" src="/pics/rpi.jfif" width="50" height="50"></a>
 <h3 style="margin: 0 0 2px;">Rensselaer Polytechnic Institute</h3>
 <p style="margin: 0 0 2px;"><em><strong>Troy, NY, US </strong></em></p>
 
 *Innovation in Selective Laser Sintering Method for Bismuth Telluride*\
+**Advisor**: [Dr.Theo Borca-Tasciuc](https://mane.rpi.edu/people/faculty/theodorian-borca-tasciuc)
 **Main Contributions:**
 <div class="wrap-collabsible">
   <input id="collapsible8" class="toggle" type="checkbox">
@@ -324,6 +326,8 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
     </div>
   </div>
 </div>
+
+<br>
 
 ## Connect With Me!
 ---
