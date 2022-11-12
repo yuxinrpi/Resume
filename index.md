@@ -115,7 +115,6 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
     </div>
   </div>
 </div>
-<p style="margin-bottom: 5px;"></p>
 
 
 <br>
@@ -131,8 +130,8 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 **Graduation**: *May 2022*\
 **Mechanical Core Classes**:
   <div class="wrap-collabsible">
-    <input id="collapsible1" class="toggle" type="checkbox">
-    <label for="collapsible1" class="lbl-toggle">Click to Expand</label>
+    <input id="collapsible2" class="toggle" type="checkbox">
+    <label for="collapsible2" class="lbl-toggle">Click to Expand</label>
     <div class="collapsible-content">
       <div class="content-inner">
         <ul>
@@ -154,18 +153,28 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
       </div>
     </div>
   </div>
-  <p style="margin-bottom: 5px;"></p>
 
 **Computer Science Core Classes**:
-  - `Computer Science I (Python)`
-  - `Data Structures (C++)`
-  - `Foundation of Computer Science (Discrete Math)`
-  - `Numerical Methods and Programming (Python w/ Numpy)`
-  - [<code style="color: blue;">Game Programming (Unity w/ C#)</code>](https://www.yuxinhu.ga/project7.html)
-  - `Computer Organization (C, MIPS)`
-  - `Intro to Algorithms`
-  - `Computer Vision (Python w/ OpenCV2 & PyTorch)`
-  - [<code style="color: blue;">Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)</code>](https://www.yuxinhu.ga/project4.html)
+<div class="wrap-collabsible">
+  <input id="collapsible3" class="toggle" type="checkbox">
+  <label for="collapsible3" class="lbl-toggle">Click to Expand</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <ul>
+        <li>Computer Science I (Python)</li>
+        <li>Data Structures (C++)</li>
+        <li>Foundation of Computer Science (Discrete Math)</li>
+        <li>Numerical Methods and Programming (Python w/ Numpy)</li>
+        <li><a href="https://www.yuxinhu.ga/project7.html"><p style="color: blue; margin-bottom:0px">Game Programming (Unity w/ C#)</p></a></li>
+        <li>Computer Organization (C, MIPS)</li>
+        <li>Intro to Algorithms</li>
+        <li>Computer Vision (Python w/ OpenCV2 & PyTorch)</li>
+        <li><a href="https://www.yuxinhu.ga/project5.html"><p style="color: blue; margin-bottom:0px">Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)</p></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 
 <br>
 
