@@ -9,7 +9,7 @@ code {
 </style>
 <style>
 .wrap-collabsible {
-  margin-bottom: 1.2rem 0;
+  margin-bottom: 1rem 0;
 }
 
 input[type='checkbox'] {
@@ -21,11 +21,11 @@ input[type='checkbox'] {
 
   font-weight: bold;
   font-family: monospace;
-  font-size: 1.2rem;
+  font-size: 0.8rem;
   text-transform: uppercase;
   text-align: center;
 
-  padding: 0.5rem;
+  padding: 0.3rem;
 
   background: #267CB9;
   color: #fff;
@@ -69,17 +69,13 @@ input[type='checkbox'] {
   max-height: 100vh;
 }
 
-.toggle:checked + .lbl-toggle {
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-}
 
 .collapsible-content .content-inner {
-  background: rgba(60, 60, 60, .2);
-  border-bottom: 1px solid rgba(60, 60, 60, .45);
+  background: #fff;
+  border-bottom: #fff;
   border-bottom-left-radius: 7px;
   border-bottom-right-radius: 7px;
-  padding: .5rem 1rem;
+  padding: 0rem 1rem;
 }
 </style>
 
@@ -105,16 +101,16 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 **Expected graduation**: *June 2023*\
 **Core Classes**:
 <div class="wrap-collabsible">
-  <input id="collapsible3" class="toggle" type="checkbox">
-  <label for="collapsible3" class="lbl-toggle">Click to Expand</label>
+  <input id="collapsible1" class="toggle" type="checkbox">
+  <label for="collapsible1" class="lbl-toggle">Click to Expand</label>
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-        <li><code>Food Science</code></li>
-        <li><code>Machine Learning (Python w/ TensorFlow)</code></li>
-        <li><code>Product Developement (Tentative)</code></li>
-        <li><code>Vehicle Dynamics & Control (Tentative)</code></li>
-        <li><code>Design of Microprocessor (Tentative)</code></li>
+        <li>Food Science</li>
+        <li>Machine Learning (Python w/ TensorFlow)</li>
+        <li>Product Developement (Tentative)</li>
+        <li>Vehicle Dynamics & Control (Tentative)</li>
+        <li>Design of Microprocessor (Tentative)</li>
       </ul>
     </div>
   </div>
@@ -134,25 +130,31 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 **GPA**: *3.78/4.00*\
 **Graduation**: *May 2022*\
 **Mechanical Core Classes**:
-  - `Engineering Graphics & CAD`
-  - `Engineering Analysis (Static Structure Analysis)`
-  - `Engineering Dynamics`
-  - [<code style="color: blue;">Engineering Design</code>](https://www.yuxinhu.ga/project5.html)
-  - `Material Science`
-  - `Strength of Materials (Static Structure Analysis)`
-  - `Fluid Mechanics`
-  - `Thermal Dynamics`
-  - `Heat Transfer`
-  - `Elements of Mechanical Design`
-  - `Modeling and Control of Dynamic System (PID control)`
-  - `Electronic Instrumentation`
-  - `Intro to Finite Elements`
-  - [<code style="color: blue;">Robotics</code>](https://www.yuxinhu.ga/project3.html)
-  - [<code style="color: blue;">Inventor Studio II</code>](https://www.yuxinhu.ga/project3.html)
-  - `Mechanical System Lab`
-  - `Thermal & Fluid Lab`
-  - `Control System Lab`
-
+  <div class="wrap-collabsible">
+    <input id="collapsible1" class="toggle" type="checkbox">
+    <label for="collapsible1" class="lbl-toggle">Click to Expand</label>
+    <div class="collapsible-content">
+      <div class="content-inner">
+        <ul>
+          <li>Engineering Graphics & CAD</li>
+          <li>Engineering Analysis (Static Structure Analysis)</li>
+          <li><a href="https://www.yuxinhu.ga/project5.html"><p style="color: blue; margin-bottom:0px">Engineering Design</p></a></li>
+          <li>Fluid Mechanics</li>
+          <li>Thermal Dynamics</li>
+          <li>Elements of Mechanical Design</li>
+          <li>Modeling and Control of Dynamic System (PID control)</li>
+          <li>Electronic Instrumentation</li>
+          <li>Intro to Finite Elements</li>
+          <li><a href="https://www.yuxinhu.ga/project3.html"><p style="color: blue; margin-bottom:0px">Robotics</p></a></li>
+          <li><a href="https://www.yuxinhu.ga/project1.html"><p style="color: blue; margin-bottom:0px">Inventor Studio II</p></a></li>
+          <li>Mechanical System Lab</li>
+          <li>Thermal & Fluid Lab</li>
+          <li>Control System Lab</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <p style="margin-bottom: 5px;"></p>
 
 **Computer Science Core Classes**:
   - `Computer Science I (Python)`
