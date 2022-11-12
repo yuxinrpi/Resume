@@ -170,7 +170,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
         <li><a href="https://www.yuxinhu.ga/project8.html"><p style="color: blue; margin-bottom:0px">Computer Organization (C, MIPS)</p></a></li>
         <li>Intro to Algorithms</li>
         <li>Computer Vision (Python w/ OpenCV2 & PyTorch)</li>
-        <li><a href="https://www.yuxinhu.ga/project5.html"><p style="color: blue; margin-bottom:0px">Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)</p></a></li>
+        <li><a href="https://www.yuxinhu.ga/project4.html"><p style="color: blue; margin-bottom:0px">Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)</p></a></li>
       </ul>
     </div>
   </div>
