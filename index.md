@@ -49,7 +49,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
   - `Engineering Graphics & CAD`
   - `Engineering Analysis (Static Structure Analysis)`
   - `Engineering Dynamics`
-  - [`Engineering Design`](https://www.yuxinhu.ga/project5.html)
+  - [<span style="color: blue;">`Engineering Design`</span>](https://www.yuxinhu.ga/project5.html)
   - `Material Science`
   - `Strength of Materials (Static Structure Analysis)`
   - `Fluid Mechanics`
