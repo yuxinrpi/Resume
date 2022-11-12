@@ -299,10 +299,20 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <h3 style="margin: 0 0 2px;">University of California, Berkeley</h3>
 <p style="margin: 0 0 2px;"><em><strong>Berkeley, CA, US </strong></em></p>
 
-*Machine Learning Algorithms for Nuclear Fusion Magnet Material Science*\
+***Machine Learning Algorithms for Nuclear Fusion Magnet Material Science***\
+**Advisor**: [Christopher Reis](https://www.linkedin.com/in/christopher-reis007/)\
 **Main Contributions:**
-- In progress
-
+<div class="wrap-collabsible">
+  <input id="collapsible8" class="toggle" type="checkbox">
+  <label for="collapsible8" class="lbl-toggle">Click to Expand</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+    <ul>
+      <li>In Progress</li>
+    </ul>
+    </div>
+  </div>
+</div>
 
 <br>
 
@@ -310,12 +320,12 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <h3 style="margin: 0 0 2px;">Rensselaer Polytechnic Institute</h3>
 <p style="margin: 0 0 2px;"><em><strong>Troy, NY, US </strong></em></p>
 
-*Innovation in Selective Laser Sintering Method for Bismuth Telluride*\
-**Advisor**: [Dr.Theo Borca-Tasciuc](https://mane.rpi.edu/people/faculty/theodorian-borca-tasciuc)
+***Innovation in Selective Laser Sintering Method for Bismuth Telluride***\
+**Advisor**: [Dr.Theo Borca-Tasciuc](https://mane.rpi.edu/people/faculty/theodorian-borca-tasciuc)\
 **Main Contributions:**
 <div class="wrap-collabsible">
-  <input id="collapsible8" class="toggle" type="checkbox">
-  <label for="collapsible8" class="lbl-toggle">Click to Expand</label>
+  <input id="collapsible9" class="toggle" type="checkbox">
+  <label for="collapsible9" class="lbl-toggle">Click to Expand</label>
   <div class="collapsible-content">
     <div class="content-inner">
     <ul>
