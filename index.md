@@ -83,7 +83,6 @@ input[type='checkbox'] {
 <!-- ### You can also [download as PDF](/files/Resume.pdf)! -->
 ## Intro
 ---
-*(This site is under construction now, check back later!)*\
 Hi there!\
 I am a Master student at UC Berkeley, and am expected to graduate by June 2023.
 I built this website as my portfolio, which allows more visual / interactive media to be presented. Please feel free to browse through the pages, and discover my projects!\
