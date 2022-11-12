@@ -31,10 +31,10 @@ The Wellness System incorporates the six components: humidity, air filtration, c
 
 <img src="/project5/system.png" style="width:40%;align-items: center;margin-left: auto;margin-right: auto;display: block;">
 
-## Central Controlling subsystem
+## Central Controlling Subsystem
 ---
 Among the six major subsystems, Yuxin was in charge of the **Central Controlling System (Electronics)**. The subsystem design uses an arduino microprocessor.
-<img src="/project5/arduino.png" style="width:70%;align-items: center;margin-left: auto;margin-right: auto;display: block;">
+<img src="/project5/arduino.png" style="width:100%;align-items: center;margin-left: auto;margin-right: auto;display: block;">
 The system has multiple sensors to collect the data from ambient environment, including temperature, humidity, air quality, light intensity, and the human detection. Using all the data collected, the current condition can be interpreted, and if it is needed, actions will be made to optimize the condition, for example starting the air purifier, turning on the light, turning on the AC, etc.\
 A WiFi module is also installed, and so thus the data flow can be syncronized with the cloud server, allowing the user to view the stats and control the system from the client software.
 
