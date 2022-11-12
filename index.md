@@ -47,19 +47,20 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 **Graduation**: *May 2022*\
 **Mechanical Core Classes**:
   - `Engineering Graphics & CAD`
-  - `Engineering Analysis`
+  - `Engineering Analysis (Static Structure Analysis)`
   - `Engineering Dynamics`
-  - `Engineering Design`
+  - [`Engineering Design`](https://www.yuxinhu.ga/project5.html)
   - `Material Science`
-  - `Strength of Materials`
+  - `Strength of Materials (Static Structure Analysis)`
   - `Fluid Mechanics`
   - `Thermal Dynamics`
   - `Heat Transfer`
   - `Elements of Mechanical Design`
-  - `Modeling and Control of Dynamic System`
+  - `Modeling and Control of Dynamic System (PID control)`
   - `Electronic Instrumentation`
   - `Intro to Finite Elements`
-  - `Robotics`
+  - [`Robotics`](https://www.yuxinhu.ga/project3.html)
+  - [`Inventor Studio II`](https://www.yuxinhu.ga/project3.html)
   - `Mechanical System Lab`
   - `Thermal & Fluid Lab`
   - `Control System Lab`
@@ -70,11 +71,11 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
   - `Data Structures (C++)`
   - `Foundation of Computer Science (Discrete Math)`
   - `Numerical Methods and Programming (Python w/ Numpy)`
-  - `Game Programming (Unity w/ C#)`
+  - [`Game Programming (Unity w/ C#)`](https://www.yuxinhu.ga/project7.html)
   - `Computer Organization (C, MIPS)`
   - `Intro to Algorithms`
   - `Computer Vision (Python w/ OpenCV2 & PyTorch)`
-  - `Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)`
+  - [`Robotics (Matlab, Raspberry Pi, ROS, Python w/ OpenCV2)`](https://www.yuxinhu.ga/project4.html)
 
 <br>
 
@@ -161,7 +162,7 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
 <h3 style="margin: 0 0 2px;">Rensselaer Polytechnic Institute</h3>
 <p style="margin: 0 0 2px;"><em><strong>Troy, NY, US </strong></em></p>
 
-*Innovation in Selective Laser Sintering Method for Bismuth Telluride*
+*Innovation in Selective Laser Sintering Method for Bismuth Telluride*\
 **Main Contributions:**
 - Examined and analyzed laser-sintering-prepared Bi2T e3 samples’ mechanical and electrical properties
 - Engineered a new device layout that could significantly optimize the printing quality and enhance the electrical properties

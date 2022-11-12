@@ -1,7 +1,7 @@
 # Robotics Class Demo Collection
 ## Intro
 ---
-This page collects the demo of Robotics I class mini projects. You can also view the project at [My GitHub Page](https://github.com/yuxinrpi/Robotics-I-Class-Project)\
+This page collects the demo of Robotics I class mini projects. You can also view the project at [My GitHub Page](https://github.com/yuxinrpi/Robotics-I-Class-Project). For other Robotics projects, see [this page](https://www.yuxinhu.ga/project3.html) also.\
 All class mini projects are done by me alone. All codes were written in Matlab with Robotics Toolbox, but most of the algorithms are implemented manually.
 
 <style>

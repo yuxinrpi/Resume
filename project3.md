@@ -1,7 +1,7 @@
 # Duckiebot Auto Parking system
 ## Intro
 ---
-This project is a class project of **CSCI-4480/MANE-4480 Robotics I** @ RPI.\
+This project is a class project of **CSCI-4480/MANE-4480 Robotics I** @ RPI. For other Robotics class projects, see [this page](https://www.yuxinhu.ga/project4.html) also.\
 Yuxin was the **team leader**, and was in charge of Computer Vision.
 
 > Automatic parking is a feature of growing interest that has been implemented in an increasing number of vehicles. It has the potential to be very useful to many different people and if implemented properly could be beneficial in small ways like stopping superficial nicks and scratches to large ways like preventing major costly damage to the driver’s vehicle and others.
