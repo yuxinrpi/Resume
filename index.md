@@ -87,7 +87,7 @@ Hi there!\
 I am a Master student at UC Berkeley, and am expected to graduate by June 2023.
 I built this website as my portfolio, which allows more visual / interactive media to be presented. Please feel free to browse through the pages, and discover my projects!\
 I am actively looking for a full-time job as a Mechanical Engineer / Product Manager starting *Summer 2023*.
-Please feel free to contact me if you are interested via <a href="mailto:yuxinhu@berkeley.edu">Email</a>!
+Please feel free to contact me if you are interested via Email @ <a href="mailto:yuxinhu@berkeley.edu">yuxinhu@berkeley.edu</a>!
 
 <br>
 
@@ -234,7 +234,6 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
       <li><strong><em>Information System Development</em></strong>
         <ul>
           <li>Designed a Python scraper that can automatically capture the data from the company’s production system, output it to the management system, and realize visualization through data cleaning and interpretation</li>
-          <li>Participated in the bidding of three suppliers and evaluated their qualification through field visits</li>
         </ul>
       </li>
       <li><strong><em>Evaluation of Suppliers’ Schemes</em></strong>
