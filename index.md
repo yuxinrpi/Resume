@@ -137,9 +137,12 @@ Please feel free to contact me if you are interested via <a href="mailto:yuxinhu
         <ul>
           <li>Engineering Graphics & CAD</li>
           <li>Engineering Analysis (Static Structure Analysis)</li>
+          <li>Engineering Processes</li>
           <li><a href="https://www.yuxinhu.ga/project5.html"><p style="color: blue; margin-bottom:0px">Engineering Design</p></a></li>
-          <li>Fluid Mechanics</li>
+          <li>Material Science</li>
+          <li>Strength of Materials</li>
           <li>Thermal Dynamics</li>
+          <li>Fluid Mechanics</li>
           <li>Elements of Mechanical Design</li>
           <li>Modeling and Control of Dynamic System (PID control)</li>
           <li>Electronic Instrumentation</li>
