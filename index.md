@@ -87,7 +87,7 @@ Hi there!\
 I am a Master student at UC Berkeley, and am expected to graduate by June 2023.
 I built this website as my portfolio, which allows more visual / interactive media to be presented. Please feel free to browse through the pages, and discover my projects!\
 I am actively looking for a full-time job as a Mechanical Engineer / Product Manager starting *Summer 2023*.
-Please feel free to contact me if you are interested via Email @ <a href="mailto:yuxinhu@berkeley.edu">yuxinhu@berkeley.edu</a>!
+Please feel free to contact me if you are interested via Email @ <a href="mailto:yuxinhu@berkeley.edu">yuxinhu@berkeley.edu</a> or <a href="mailto:yuxinrpi@gmail.com">yuxinrpi@gmail.com</a>!
 
 <br>
 
@@ -107,11 +107,10 @@ Please feel free to contact me if you are interested via Email @ <a href="mailto
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-        <li>Food Science</li>
         <li>Machine Learning (Python w/ TensorFlow)</li>
-        <li>Product Developement (Tentative)</li>
         <li>Vehicle Dynamics & Control (Tentative)</li>
         <li>Design of Microprocessor (Tentative)</li>
+        <li>Food Science</li>
       </ul>
     </div>
   </div>
@@ -263,9 +262,9 @@ Please feel free to contact me if you are interested via Email @ <a href="mailto
   <div class="collapsible-content">
     <div class="content-inner">
     <ul>
-      <li>Supported designing and developing the thru flight check and maintenance IoT devices; Collected the aircraft damage samples and images for the future research with machine learning models</li>
+      <li>Supported designing and developing the thru flight check and maintenance IoT devices; Collected the aircraft damage samples and images for the future research with machine learning models</li>
       <li>Developed independently a useful tool with Python that helps estimate the flight cost of various aircrafts, with features such as cost comparison among different aircrafts, load planning and visualization</li>
-      <li>Assisted in the establishment of the IoT device lab and Cloud computing center, and proposed an equipment list based on the R&amp;D strategy of the company</li>
+      <li>Assisted in the establishment of the IoT device lab and Cloud computing center, and proposed an equipment list based on the R&D strategy of the company</li>
     </ul>
     </div>
   </div>
@@ -304,6 +303,7 @@ Please feel free to contact me if you are interested via Email @ <a href="mailto
 
 ***Machine Learning Algorithms for Nuclear Fusion Magnet Material Science***\
 **Advisor**: [Christopher Reis](https://www.linkedin.com/in/christopher-reis007/)\
+**Advisor**: [Dr.Peter Hosemann](https://vcresearch.berkeley.edu/faculty/peter-hosemann)\
 **Main Contributions:**
 <div class="wrap-collabsible">
   <input id="collapsible8" class="toggle" type="checkbox">
