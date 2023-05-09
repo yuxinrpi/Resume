@@ -87,7 +87,7 @@ Hi there!\
 I am a recent Master graduate from UC Berkeley, and I have been admitted to the Ph.D. Program also at UC Berkeley with a focus in *Additive Manufacturing*.\
 I built this website as my portfolio, which allows more visual / interactive media to be presented. Please feel free to browse through the pages, and discover my projects!\
 ~~I am actively looking for a full-time job as a Mechanical Engineer / Product Manager starting *Summer 2023*.~~\
-I am no longer looking for jobs recently due to the change of my career goal.\
+I am no longer looking for jobs recently due to the change of my career goal.
 But still, please feel free to contact me if you are interested in talking with me via Email @ <a href="mailto:yuxinhu@berkeley.edu">yuxinhu@berkeley.edu</a> or <a href="mailto:yuxinrpi@gmail.com">yuxinrpi@gmail.com</a>!
 
 <br>
